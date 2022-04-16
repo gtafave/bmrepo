@@ -6,5 +6,29 @@
       "ranum":"5456",
       "vnnum":"wfwf",
       "otdel":"Директора"
+   },
+      {
+      "name":"test",
+      "dolj":"dwwd",
+      "korpnum":"345345",
+      "ranum":"5456",
+      "vnnum":"wfwf",
+      "otdel":"ОИТиС"
+   },
+      {
+      "name":"test",
+      "dolj":"dwwd",
+      "korpnum":"345345",
+      "ranum":"5456",
+      "vnnum":"wfwf",
+      "otdel":"Слуба Безопасности"
+   },
+   {
+      "name":"test",
+      "dolj":"dwwd",
+      "korpnum":"345345",
+      "ranum":"5456",
+      "vnnum":"wfwf",
+      "otdel":"ОМТО"
    }
 ]
