@@ -3,16 +3,16 @@
         "departament": "ffasfassaf",
         "post": "test",
         "name": "test",
-        "kphone": "afsasfasf,234234,234234",
-        "jphone": "asfasfafs",
-        "internal": "asfasfasfaasf"
-    },
-    {
-        "departament": "ffasfassaf",
-        "post": "asfasffas",
-        "name": "1test1",
-        "kphone": "afsasfasf,324234,212312,12331",
-        "jphone": "asfasfafs",
-        "internal": "asfasfasfaasf"
+        "mail": "ewfwfe@",
+        "numbers": [
+            {
+                "number": "123",
+                "type": "корпаративный"
+            },
+            {
+                "number": "123",
+                "type": "рабочий"
+            }
+        ]
     }
 ]
