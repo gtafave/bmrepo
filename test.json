@@ -1,9 +1,9 @@
 [
     {
-        "departament": "ffasfassaf",
-        "post": "test",
-        "name": "test",
-        "mail": "ewfwfe@",
+        "departament": "Отдел информационных технологий и связи.",
+        "post": "Электромонтер линейных сооружений, радиофикации и связи",
+        "name": "Туктагулов Рафис Галимович",
+        "mail": "TuktagulovRG@bmrb.ru",
         "numbers": [
             {
                 "number": "123",
@@ -12,14 +12,18 @@
             {
                 "number": "123",
                 "type": "рабочий"
+            },
+            {
+                "number":"390",
+                "type":"рабочий"
             }
         ],
         "type": 0
     },
-        {
-        "departament": "ffasfassaf",
+    {
+        "departament": null,
         "post": "test",
-        "name": "test",
+        "name": "Отдел информационных технологий и связи.",
         "mail": "ewfwfqwddqwe@",
         "numbers": [
             {
