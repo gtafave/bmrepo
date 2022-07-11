@@ -13,6 +13,24 @@
                 "number": "123",
                 "type": "рабочий"
             }
-        ]
+        ],
+        "type": 0
+    },
+        {
+        "departament": "ffasfassaf",
+        "post": "test",
+        "name": "test",
+        "mail": "ewfwfqwddqwe@",
+        "numbers": [
+            {
+                "number": "123",
+                "type": "корпаративный"
+            },
+            {
+                "number": "123",
+                "type": "рабочий"
+            }
+        ],
+        "type": 1
     }
 ]
