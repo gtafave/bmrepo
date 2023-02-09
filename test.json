@@ -3,7 +3,7 @@
       "departament":"null",
       "post":"Директора",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -17,13 +17,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Генеральный директор",
       "name":"Туленков Александр Федорович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -37,13 +38,14 @@
             "type":"вн",
             "number":"101 – в г. Сибай,311- ОФ"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный инженер",
       "name":"Бодренков Алексей Евгеньевич ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -57,13 +59,14 @@
             "type":"вн",
             "number":"302 ХОФ, 110- Сибай"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Директор по капитальному строительству-начальник управления капитального строительства ",
       "name":"Фазлетдинов Фануз Фаритович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -77,13 +80,14 @@
             "type":"вн",
             "number":"314 – ХОФ,108 - Сибай"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Директор по персоналу и общим вопросам",
       "name":"Тукаев Рамиль Марсович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -97,13 +101,14 @@
             "type":"вн",
             "number":"105 - в г. Сибай,399-ОФ"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Директор по безопасности и режиму",
       "name":"Шагимарданов Амир Рафкатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -117,13 +122,14 @@
             "type":"вн",
             "number":200
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Директор по производству",
       "name":"Рогаченко Дмитрий Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -137,13 +143,14 @@
             "type":"вн",
             "number":204
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Советник ген. директора по перспективному развитию",
       "name":"Сорокин Алексей Валерьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -157,13 +164,14 @@
             "type":"вн",
             "number":359
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел по ремонту и содержанию зданий и сооружений",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -177,13 +185,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела по ремонту зданий и сооружений",
       "name":"Блинков Сергей Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -197,13 +206,14 @@
             "type":"вн",
             "number":205
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий специалист по проектно-сметной документации",
       "name":"Сычёва Елена Александровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -217,13 +227,14 @@
             "type":"вн",
             "number":600
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Диспетчерская служба",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -237,13 +248,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер",
       "name":"Галин Фанис Рауфович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -257,13 +269,14 @@
             "type":"вн",
             "number":"404, 313, 202 - рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер",
       "name":"Баянов Рустем Ризаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -277,13 +290,14 @@
             "type":"вн",
             "number":"404, 313,202-рация"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер",
       "name":"Такаев Салават Аюпович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -297,13 +311,14 @@
             "type":"вн",
             "number":"404, 313,202-рация"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер",
       "name":"Аширов Азамат Вагапович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -317,13 +332,14 @@
             "type":"вн",
             "number":"404, 313,202 - рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел развития",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -337,13 +353,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела",
       "name":"Сорокин Антон Дмитриевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -357,13 +374,14 @@
             "type":"вн",
             "number":217
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер",
       "name":"Котова Дарья Павловна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -377,13 +395,14 @@
             "type":"вн",
             "number":480
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер",
       "name":"Евтеев Максим Игоревич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -415,13 +434,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -435,13 +455,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер",
       "name":"Абдрахимов Самат Салимович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -455,13 +476,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер",
       "name":"Алибаев Айтуган Радикович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -475,13 +497,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер",
       "name":"Насыров Арсен Раисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -495,13 +518,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер",
       "name":"Пудовкин Никита Евгеньевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -515,13 +539,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Служба управления проектом по строительству Юбилейного месторождения",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -535,13 +560,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Руководитель проекта",
       "name":"Пушкарев Денис Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -555,13 +581,14 @@
             "type":"вн",
             "number":447
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Координатор проекта",
       "name":"Байназарова Дина Фаритовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -575,13 +602,14 @@
             "type":"вн",
             "number":207
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по инжинирингу",
       "name":"Фоменко Даниил   Вячеславович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -595,13 +623,14 @@
             "type":"вн",
             "number":503
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель руководителя проекта - менеджер по организации строительства",
       "name":"Правой Роман Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -615,13 +644,14 @@
             "type":"вн",
             "number":388
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по рискам",
       "name":"Комлев Алексей Вячеславович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -635,13 +665,14 @@
             "type":"вн",
             "number":472
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по организации строительства",
       "name":"Чебыкин Алексей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -655,13 +686,14 @@
             "type":"вн",
             "number":388
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Маркшейдер",
       "name":"Хлопин Максим Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -675,13 +707,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Маркшейдер",
       "name":"Лапин Михаил Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -695,13 +728,14 @@
             "type":"вн",
             "number":476
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Маркшейдер",
       "name":"Лапина Олеся Сергеевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -715,13 +749,14 @@
             "type":"вн",
             "number":477
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Маркшейдер",
       "name":"Рахимов Артур Ильдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -735,13 +770,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (технолог ОФ)",
       "name":"Казакова Марина Юрьевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -755,13 +791,14 @@
             "type":"вн",
             "number":499
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (архитектор)",
       "name":"Ермолаев Михаил Яковлевич ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -775,13 +812,14 @@
             "type":"вн",
             "number":585
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (технолог ПГР)",
       "name":"Романцев Максим Федорович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -795,13 +833,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (технолог объектов поверхности) ",
       "name":"Вакуленко Александр Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -815,13 +854,14 @@
             "type":"вн",
             "number":581
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (специализированные разделы)",
       "name":"Мильбергер Наталья Владимировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -835,13 +875,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (исходные данные)",
       "name":"Гурьянова Ирина Павловна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -855,13 +896,14 @@
             "type":"вн",
             "number":586
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (строительные конструкции)",
       "name":"Тычаева Лариса Аптиевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -875,13 +917,14 @@
             "type":"вн",
             "number":584
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (сметчик)",
       "name":"Вдовина Евгения Александровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -895,13 +938,14 @@
             "type":"вн",
             "number":582
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (ОВиК)",
       "name":"Овчинников Сергей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -915,13 +959,14 @@
             "type":"вн",
             "number":580
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (Электроснабжение)",
       "name":"Корляков Алексей Дмитриевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -935,13 +980,14 @@
             "type":"вн",
             "number":583
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (Сети связи)",
       "name":"Антипанов Сергей Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -955,13 +1001,14 @@
             "type":"вн",
             "number":468
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по строительному контролю",
       "name":"Ярмухаметов Иршат Ирмакович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -975,13 +1022,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по строительному контролю (ГКР)",
       "name":"Кантюков Роман Радикович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -995,13 +1043,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по проектно-сметной работе",
       "name":"Зверева Гульнур Римовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1015,13 +1064,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по проектно-сметной работе",
       "name":"Абубакирова Айгуль Наильевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1035,13 +1085,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по проектно-сметной работе",
       "name":"Сухарева Римма Ишмурзовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1055,13 +1106,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по проектно-сметной работе",
       "name":"Хабиров Азат Хамитович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1075,13 +1127,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по планированию закупок",
       "name":"Вьюженко Александр Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1095,13 +1148,14 @@
             "type":"вн",
             "number":569
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Алексеенко Павел Юрьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1115,13 +1169,14 @@
             "type":"вн",
             "number":566
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Павлова Мария Сергеевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1135,13 +1190,14 @@
             "type":"вн",
             "number":563
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Ишмухаметов Вадим Савдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1155,13 +1211,14 @@
             "type":"вн",
             "number":567
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Чмутова Алина Евгеньевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1175,13 +1232,14 @@
             "type":"вн",
             "number":564
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Головкин Павел Дмитриевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1195,13 +1253,14 @@
             "type":"вн",
             "number":568
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по строительному контролю",
       "name":"Коробко Андрей Вадимович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1215,13 +1274,14 @@
             "type":"вн",
             "number":478
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1235,13 +1295,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер строительного контроля (ГКР)",
       "name":"Набиуллин Азамат Шамильевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1255,13 +1316,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Эксперт по бюджетированию проектов промышленного строительства",
       "name":"Кураева Наталья Викторовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1275,13 +1337,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по закупкам и логистике",
       "name":"Торопов Кирилл Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1295,13 +1358,14 @@
             "type":"вн",
             "number":538
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Лебедева Виктория Александровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1315,13 +1379,14 @@
             "type":"вн",
             "number":570
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий специалист по логистике",
       "name":"Ильясов Алмаз Салаватович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1335,13 +1400,14 @@
             "type":"вн",
             "number":527
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по логистике",
       "name":"Якшигулова Лиана Ринатовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1355,13 +1421,14 @@
             "type":"вн",
             "number":439
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по логистике",
       "name":"Амиров Альберт Гайсович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1375,13 +1442,14 @@
             "type":"вн",
             "number":591
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по логистике",
       "name":"Безруков Павел Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1395,13 +1463,14 @@
             "type":"вн",
             "number":540
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Эксперт по планированию проектов пром. строительства",
       "name":"Яковлев Павел Борисович ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1415,13 +1484,14 @@
             "type":"вн",
             "number":388
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по бюджетированию проектов промышленного строительства",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1435,13 +1505,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по наладке и испытаниям",
       "name":"Султанов Руслан Рамилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1455,13 +1526,14 @@
             "type":"вн",
             "number":539
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1475,13 +1547,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Привалов Артем Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1495,13 +1568,14 @@
             "type":"вн",
             "number":542
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации строительства ГКР",
       "name":"Дымов Дмитрий Петрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1515,13 +1589,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации строительства ГКР",
       "name":"Зайнагабдинов Радик Харисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1535,13 +1610,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации строительства объектов поверхности",
       "name":"Тетерский Андрей Иванович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1555,13 +1631,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации строительства (объекты поверхности)",
       "name":"Ильясов Самат Ильдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1575,13 +1652,14 @@
             "type":"вн",
             "number":668
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по надзору за строительством (электрика)",
       "name":"Кавказов Фарит Табрисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1595,13 +1673,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по надзору за строительством (энергетика)",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1615,13 +1694,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по надзору за строительством (СМР)",
       "name":"Латушкин Денис Олегович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1635,13 +1715,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по надзору за строительством (СМР)",
       "name":"Мурзакаев Дамир Зинурович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1655,13 +1736,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по строительному надзору (АСУТП)",
       "name":"Вагапов Эльдар Кабирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1675,13 +1757,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по ОТ и ПБ",
       "name":"Асанов Денис Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1695,13 +1778,14 @@
             "type":"вн",
             "number":486
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Служба управления проектом по строительству Подольского месторождения",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1715,13 +1799,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Руководитель проекта",
       "name":"Полозов Павел Валерьевич ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1735,13 +1820,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1755,13 +1841,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель руководителя проекта - менеджер по организации строительства",
       "name":"Попков Андрей Степанович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1775,13 +1862,14 @@
             "type":"вн",
             "number":528
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Координатор проекта",
       "name":"Мезенцева Любовь Олеговна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1795,13 +1883,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по имущественным и земельным отношениям",
       "name":"Ишкильдин Тимур Шамилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1815,13 +1904,14 @@
             "type":"вн",
             "number":206
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по строительному контролю",
       "name":"Гражданкин Илья Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1835,13 +1925,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по закупкам и логистике",
       "name":"Шнып Алексей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1855,13 +1946,14 @@
             "type":"вн",
             "number":469
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Эксперт по планированию объектов пром. строительства",
       "name":"Елизарьев Андрей Олегович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1875,13 +1967,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Менеджер по инжинирингу",
       "name":"Поскрёбышева Ирина Владимировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1895,13 +1988,14 @@
             "type":"вн",
             "number":470
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (электроснабжение)",
       "name":"Панюков Сергей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1915,13 +2009,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (исходные данные)",
       "name":"Рожков Владимир Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1935,13 +2030,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (ОВиК)",
       "name":"Белоклокова Марина Анатольевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1955,13 +2051,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по строительному контролю (ГКР)",
       "name":"Мустафин Рустам Фаритович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1975,13 +2072,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (АСУТП)",
       "name":"Пинаев Кирилл Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -1995,13 +2093,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (генеральный план и транспорт)",
       "name":"Попова Анастасия Викторовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2015,13 +2114,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектированию (технолог обогащения)",
       "name":"Емельянов Александр Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2035,13 +2135,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Эксперт по бюджетированию проектов промышленного строительства",
       "name":"Давыдова Ольга Юрьевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2055,13 +2156,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по организации строительства",
       "name":"Александров Виталий Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2075,13 +2177,14 @@
             "type":"вн",
             "number":467
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по организации строительства",
       "name":"Гусев Сергей Анатольевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2095,13 +2198,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации строительства",
       "name":"Оглобличев Виталий Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2115,13 +2219,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации строительства",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2135,13 +2240,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по строительному контролю (электрика)",
       "name":"Жуков Илья Евгеньевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2155,13 +2261,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по строительному контролю (электрика)",
       "name":"Бакиров Венер Лябибович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2175,13 +2282,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по организации строительства",
       "name":"Силин Алексей Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2195,13 +2303,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации строительства",
       "name":"Даутов Азат Альбертович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2215,13 +2324,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по планированию закупок",
       "name":"Переседова Татьяна Владимировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2235,13 +2345,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по календарно-сетевому планированию",
       "name":"Гареева Татьяна Каримовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2255,13 +2366,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по проектно-сметной работе",
       "name":"Задубровский Иван Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2275,13 +2387,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по проектно-сметной работе",
       "name":"Зеркина Ольга Николаевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2295,13 +2408,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по проектно-сметной работе",
       "name":"Вельц Ирина Владимировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2315,13 +2429,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по логистике",
       "name":"Логинов Дмитрий Юрьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2335,13 +2450,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по логистике",
       "name":"Маркин Андрей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2355,13 +2471,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2375,13 +2492,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Бардин Артем Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2395,13 +2513,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2415,13 +2534,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Шалагин Никита Игоревич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2435,13 +2555,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2455,13 +2576,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Денисов Тимофей Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2475,13 +2597,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по конкурсной работе",
       "name":"Просвиркин Дмитрий Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2495,13 +2618,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий маркшейдер",
       "name":"Имашев Иршат Айратович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2515,13 +2639,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по ОТ и ПБ",
       "name":"Хасанов Фидан Данилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2535,13 +2660,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Цех горно-технологического оборудования (ЦГТО)",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2555,13 +2681,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник рудника",
       "name":"Билалов Айсувак Рафкатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2575,13 +2702,14 @@
             "type":"вн",
             "number":"374,203- рация"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист",
       "name":"Ишемгулова Ляйсан Исламовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2595,13 +2723,14 @@
             "type":"вн",
             "number":193
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный инженер",
       "name":"Юнусов Руслан Равилевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2615,13 +2744,14 @@
             "type":"вн",
             "number":"456,230 - рация"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный энергетик",
       "name":"Абдисов Айбулат Зиннатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2635,13 +2765,14 @@
             "type":"вн",
             "number":380
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный механик",
       "name":"Ишбердин Руслан Усманович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2655,13 +2786,14 @@
             "type":"вн",
             "number":454
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по охране труда и пром. безоп.",
       "name":"Валеев Виль Ильдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2675,13 +2807,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Автотранспортный цех",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2695,13 +2828,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник АТЦ",
       "name":"Сабитов Ильсур Ильдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2715,13 +2849,14 @@
             "type":"вн",
             "number":450
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2735,13 +2870,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2755,13 +2891,14 @@
             "type":"вн",
             "number":"210 – рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный инженер",
       "name":"Дистанов Айдар Раисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2775,13 +2912,14 @@
             "type":"вн",
             "number":153
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по ГСМ и норм. мат. ресурсов",
       "name":"Альметова Венера Анваровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2795,13 +2933,14 @@
             "type":"вн",
             "number":451
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по безопасности движения",
       "name":"Ишкильдин Ильдар Салаватович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2815,13 +2954,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка ПХМ",
       "name":"Чернейкин Николай Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2835,13 +2975,14 @@
             "type":"вн",
             "number":508
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Механик участка легк. транспорта",
       "name":"Платонов Юрий Алексеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2855,13 +2996,14 @@
             "type":"вн",
             "number":458
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Диспетчерская служба автотранспортного цеха",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2875,13 +3017,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Диспетчер АТЦ",
       "name":"Кувандыков Азамат Рашитович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2895,13 +3038,14 @@
             "type":"вн",
             "number":"460, 314– рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Диспетчер АТЦ",
       "name":"Ишкабулова Венера Низамутдиновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2915,13 +3059,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Обогатительная фабрика",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2935,13 +3080,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник фабрики",
       "name":"Максютов Рустам Узбекович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2955,13 +3101,14 @@
             "type":"вн",
             "number":303
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный инженер",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2975,13 +3122,14 @@
             "type":"вн",
             "number":304
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник производства",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -2995,13 +3143,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный механик",
       "name":"Ибрагимов Юлдаш Фиргатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3015,13 +3164,14 @@
             "type":"вн",
             "number":391
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный энергетик",
       "name":"Гайсин Амир Салихъянович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3035,13 +3185,14 @@
             "type":"вн",
             "number":362
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель глав. Энергетика",
       "name":"Утяшев Винер Юлаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3055,13 +3206,14 @@
             "type":"вн",
             "number":363
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по организации и норм. Труда",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3075,13 +3227,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник хвостового хозяйства",
       "name":"Чистяков Евгений Федорович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3095,13 +3248,14 @@
             "type":"вн",
             "number":"384,574 – рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Насосная станция ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3115,13 +3269,14 @@
             "type":"вн",
             "number":"350,573 – рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Старший мастер",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3135,13 +3290,14 @@
             "type":"вн",
             "number":340
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по охране труда",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3155,13 +3311,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Склад",
       "name":"Юнусов Идель Айдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3175,13 +3332,14 @@
             "type":"вн",
             "number":471
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Диспетчерская служба обогатительной фабрики",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3195,13 +3353,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Диспетчер ОФ",
       "name":"Самихова Азалия Айратовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3215,13 +3374,14 @@
             "type":"вн",
             "number":"300,500- рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Диспетчер ОФ",
       "name":"Красносельская Кристина Витальевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3235,13 +3395,14 @@
             "type":"вн",
             "number":"300,500- рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ремонтно-механический цех ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3255,13 +3416,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник РМЦ",
       "name":"Юсупов Ильдар Маратович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3275,13 +3437,14 @@
             "type":"вн",
             "number":616
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-конструктор",
       "name":"Юсупов Тимур Ильдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3295,13 +3458,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Мастер РМЦ (сменный)",
       "name":"Сынгизов Руслан Искандарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3315,13 +3479,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Мастер РМЦ (сменный)",
       "name":"Мурзахметов Ержан Далабаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3335,13 +3500,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист",
       "name":"Галина Дилюза Зияевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3355,13 +3521,14 @@
             "type":"вн",
             "number":166
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Кладовщик РМЦ",
       "name":"Алибаева Луиза Альбертовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3375,13 +3542,14 @@
             "type":"вн",
             "number":617
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Кладовщик РМЦ",
       "name":"Платонова Мария Константиновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3395,13 +3563,14 @@
             "type":"вн",
             "number":617
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел сопровождения обогатительного производства",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3415,13 +3584,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Руководитель обогатительного производства",
       "name":"Игибаев Айрат Иршатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3453,13 +3623,14 @@
             "type":"вн",
             "number":304
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3473,13 +3644,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по сопровождению производства",
       "name":"Бер Юрий  Вильгельмович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3493,13 +3665,14 @@
             "type":"вн",
             "number":322
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по сопровождению производства",
       "name":"Сабина Татьяна Александровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3513,13 +3686,14 @@
             "type":"вн",
             "number":323
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Известково-реагентный участок",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3533,13 +3707,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ст. мастер ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3553,13 +3728,14 @@
             "type":"вн",
             "number":338
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Нач. смены",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3573,13 +3749,14 @@
             "type":"вн",
             "number":338
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"КИП и АСУТП.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3593,13 +3770,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник",
       "name":"Каримов Рамиль Кабирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3613,13 +3791,14 @@
             "type":"вн",
             "number":342
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Программист",
       "name":"Дильмухаметов Данил Зиннурович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3633,13 +3812,14 @@
             "type":"вн",
             "number":345
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3653,13 +3833,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер ",
       "name":"Кромин Виталий ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3673,13 +3854,14 @@
             "type":"вн",
             "number":361
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3693,13 +3875,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Иванович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3713,13 +3896,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Маркшейдерский отдел ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3733,13 +3917,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный маркшейдер и.о.",
       "name":"Резников Алексей Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3753,13 +3938,14 @@
             "type":"вн",
             "number":358
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель главного маркшейдера",
       "name":"Гусев Антон Витальевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3773,13 +3959,14 @@
             "type":"вн",
             "number":412
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Техник-картограф",
       "name":"Аширова Тансылу Вагаповна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3793,13 +3980,14 @@
             "type":"вн",
             "number":511
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. Главного маркш. по ПГР",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3813,13 +4001,14 @@
             "type":"вн",
             "number":412
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Маркшейдер по капитальному строительству",
       "name":"Михно Евгений Анатольевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3833,13 +4022,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Участковый маркшейдер на ПГР",
       "name":"Новичков Егор Павлович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3853,13 +4043,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Геологический отдел.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3873,13 +4064,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный геолог – начальник отдела",
       "name":"Мельник Роман Валерьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3893,13 +4085,14 @@
             "type":"вн",
             "number":522
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Служба технического контроля",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3913,13 +4106,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник службы",
       "name":"Торопчанина Татьяна Анатольевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3933,13 +4127,14 @@
             "type":"вн",
             "number":"319,358-вагон.вес."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. Начальника службы ",
       "name":"Байчурина Римма Галиулловна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3953,13 +4148,14 @@
             "type":"вн",
             "number":519
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер строительной лаборатории",
       "name":"Черкасова Галина Юрьевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3973,13 +4169,14 @@
             "type":"вн",
             "number":514
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Мастер контрольный по обог. И отгр. Гот. Продукции",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -3993,13 +4190,14 @@
             "type":"вн",
             "number":364
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Мастер контрольный по обог. И отгр. Гот. Продукции",
       "name":"Бигильдина Елена Елена ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4013,13 +4211,14 @@
             "type":"вн",
             "number":364
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Мастер контрольный по обог. И отгр. Гот. Продукции",
       "name":"Валитова Анна Владимировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4033,13 +4232,14 @@
             "type":"вн",
             "number":364
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Весовая ХОФ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4053,13 +4253,14 @@
             "type":"вн",
             "number":349
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Контролеры СТК ХОФ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4073,13 +4274,14 @@
             "type":"вн",
             "number":379
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Центральная исследовательская лаборатория.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4093,13 +4295,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник исслед. Лаборатории",
       "name":"Латыпова Луиза Рамильевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4113,13 +4316,14 @@
             "type":"вн",
             "number":335
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Служба главного инженера",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4133,13 +4337,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный горняк",
       "name":"Гринцов Виталий Валерьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4153,13 +4358,14 @@
             "type":"вн",
             "number":425
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по горным работам",
       "name":"Сулейманов Айдар Халитович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4173,13 +4379,14 @@
             "type":"вн",
             "number":333
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по горным работам",
       "name":"Шакиров Ильмир Шавкатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4193,13 +4400,14 @@
             "type":"вн",
             "number":226
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по планированию",
       "name":"Тулибаев Идрис Минигалиевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4213,13 +4421,14 @@
             "type":"вн",
             "number":305
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по стандарт/ и норм. Мат. Ресурсов",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4233,13 +4442,14 @@
             "type":"вн",
             "number":305
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по горным работам",
       "name":"Халимов Ильяс Сагитович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4253,13 +4463,14 @@
             "type":"вн",
             "number":430
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по планированию",
       "name":"Торопчанин Денис Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4273,13 +4484,14 @@
             "type":"вн",
             "number":369
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Проектно-конструкторский отдел",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4293,13 +4505,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник проектно-конструкторского отдела",
       "name":"Горбунова Лилия Рахимьяновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4313,13 +4526,14 @@
             "type":"вн",
             "number":430
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-конструктор",
       "name":"Исламов Артур Зиатдинович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4333,13 +4547,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-конструктор",
       "name":"Малаева Светлана ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4353,13 +4568,14 @@
             "type":"вн",
             "number":392
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Николаевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4373,13 +4589,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-конструктор",
       "name":"Туляшев Салават Тагирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4393,13 +4610,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-конструктор",
       "name":"Черняков Михаил Алексеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4413,13 +4631,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-конструктор",
       "name":"Шарифуллин Ринат Рамзилевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4433,13 +4652,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Пыле-вентиляционная служба",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4453,13 +4673,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник службы",
       "name":"Мухамедьянов Тимур Варович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4473,13 +4694,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел оперативного управления производством",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4493,13 +4715,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела",
       "name":"Антипин Владимир Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4513,13 +4736,14 @@
             "type":"вн",
             "number":307
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный специалист по планированию производства",
       "name":"Курочкин Петр Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4533,13 +4757,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист результативности производства",
       "name":"Бирюков Александр Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4553,13 +4778,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист результативности производства",
       "name":"Арясова Виктория Евгеньевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4573,13 +4799,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер ЮПР",
       "name":"Сосно Александр Константинович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4593,13 +4820,14 @@
             "type":"вн",
             "number":373
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер ЮПР",
       "name":"Гибадуллин Ришат Рашитович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4613,13 +4841,14 @@
             "type":"вн",
             "number":373
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер ЮПР",
       "name":"Гайнуллин Радик Фаритович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4633,13 +4862,14 @@
             "type":"вн",
             "number":373
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Горный диспетчер ЮПР",
       "name":"Денисов Сергей Михайлович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4653,13 +4883,14 @@
             "type":"вн",
             "number":373
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Служба прогнозирования и предотвращения горных ударов",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4673,13 +4904,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный геомеханик",
       "name":"Гладнев Виктор Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4693,13 +4925,14 @@
             "type":"вн",
             "number":670
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Геомеханик",
       "name":"Явкин Руслан Вадимович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4713,13 +4946,14 @@
             "type":"вн",
             "number":669
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел буро-взрывных работ.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4733,13 +4967,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальника отдела БВР",
       "name":"Юров Александр Александр",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4753,13 +4988,14 @@
             "type":"вн",
             "number":631
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по буровзрывным работам",
       "name":"Янгазин Азат Халилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4773,13 +5009,14 @@
             "type":"вн",
             "number":408
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заведующий складом ВМ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4793,13 +5030,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел главного механика.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4813,13 +5051,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный механик ",
       "name":"Лобанов Максим Борисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4833,13 +5072,14 @@
             "type":"вн",
             "number":"422, 555"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4853,13 +5093,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4873,13 +5114,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель глав. Механика ",
       "name":"Галынин Александр Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4893,13 +5135,14 @@
             "type":"вн",
             "number":386
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. главного механика по стационарным установкам",
       "name":"Спиридонов Николай Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4913,13 +5156,14 @@
             "type":"вн",
             "number":489
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Механик по крановому хозяйству",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4933,13 +5177,14 @@
             "type":"вн",
             "number":366
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-механик ОГМ",
       "name":"Саттарова Айгуль Нуримановна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4953,13 +5198,14 @@
             "type":"вн",
             "number":389
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел главного энергетика.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4973,13 +5219,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный энергетик",
       "name":"Насыров",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -4993,13 +5240,14 @@
             "type":"вн",
             "number":347
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5013,13 +5261,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Урал Азаматович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5033,13 +5282,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. Главного энергетика",
       "name":"Бурдин",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5053,13 +5303,14 @@
             "type":"вн",
             "number":347
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5073,13 +5324,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Вадим Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5093,13 +5345,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. Главного энергетика",
       "name":"Баянов Рашит Раисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5113,13 +5366,14 @@
             "type":"вн",
             "number":550
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-энергетик",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5133,13 +5387,14 @@
             "type":"вн",
             "number":415
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела метрологии и автоматизации",
       "name":"Казакбаев Данис Раисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5153,13 +5408,14 @@
             "type":"вн",
             "number":495
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-энергетик ",
       "name":"Фаизова Залия Мухамадиевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5173,13 +5429,14 @@
             "type":"вн",
             "number":229
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Подстанция «Юбилейная» ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5193,13 +5450,14 @@
             "type":"вн",
             "number":417
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Электротехническая лаборатория (ЭТЛ)",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5213,13 +5471,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник ЭТЛ",
       "name":"Байгускаров Фарваз Галимьянович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5233,13 +5492,14 @@
             "type":"вн",
             "number":526
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер ЭТЛ",
       "name":"Ультраков Искандар Галимъянович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5253,13 +5513,14 @@
             "type":"вн",
             "number":213
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел обогащения",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5273,13 +5534,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный обогатитель-начальник отдела обогащения",
       "name":"Кульбаев Тимур Азаматович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5293,13 +5555,14 @@
             "type":"вн",
             "number":135
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер-обогатитель",
       "name":"Ахметова Венера Салаватовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5313,13 +5576,14 @@
             "type":"вн",
             "number":323
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Центральная химическая лаборатория.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5333,13 +5597,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник лаборатории",
       "name":"Юсупов Рафис Фанисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5353,13 +5618,14 @@
             "type":"вн",
             "number":306
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника ЦХЛ ",
       "name":"Потапцева Ирина Евгеньевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5373,13 +5639,14 @@
             "type":"вн",
             "number":411
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-химик",
       "name":"Абдульменова Гульсум Ануровна ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5393,13 +5660,14 @@
             "type":"вн",
             "number":327
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Цех ЭТВС",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5413,13 +5681,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник ЭТВС",
       "name":"Галлямов Ильдар Рафаилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5433,13 +5702,14 @@
             "type":"вн",
             "number":589
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный инженер",
       "name":"Хусаинов Халит Халилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5453,13 +5723,14 @@
             "type":"вн",
             "number":"312, 280-рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Абдрахманов Тимур Эрнстович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5473,13 +5744,14 @@
             "type":"вн",
             "number":"312,251-рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Участок электроснабжения и вентиляции",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5493,13 +5765,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Сайпанов Фаниль Ильдарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5513,13 +5786,14 @@
             "type":"вн",
             "number":312
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Директор по капитальному строительству – ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5533,13 +5807,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"начальник УКСа ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5553,13 +5828,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Управление капитального строительства",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5573,13 +5849,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник УКС",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5593,13 +5870,14 @@
             "type":"вн",
             "number":211
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. Нач. УКС ",
       "name":"Стародубцева Валима Миниахметовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5613,13 +5891,14 @@
             "type":"вн",
             "number":428
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по подготовке проектов",
       "name":"Булатова Эльвира Хамидулловна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5633,13 +5912,14 @@
             "type":"вн",
             "number":315
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный инженер",
       "name":"Ахмедьянов Фаниль Дарвишевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5653,13 +5933,14 @@
             "type":"вн",
             "number":438
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. главного инженера",
       "name":"Каримов Азат Сайфуллович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5673,13 +5954,14 @@
             "type":"вн",
             "number":604
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-энергетик",
       "name":"Амиров Илгам Ягафарович ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5693,13 +5975,14 @@
             "type":"вн",
             "number":633
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист",
       "name":"Чекменева Евгения Николаевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5713,13 +5996,14 @@
             "type":"вн",
             "number":426
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Юбилейный подземный рудник (ЮПР)",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5733,13 +6017,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник ЮПР",
       "name":"Жуков Евгений Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5753,13 +6038,14 @@
             "type":"вн",
             "number":444
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель главного инженера ЮПР",
       "name":"Васильев Александр Юрьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5773,13 +6059,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный энергетик ЮПР",
       "name":"Федоренко Анатолий Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5793,13 +6080,14 @@
             "type":"вн",
             "number":424
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. Главного энергетика ЮПР",
       "name":"Кусяков Айнур Ахметшевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5813,13 +6101,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер (экономист)",
       "name":"Гришаева Екатерина Александровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5833,13 +6122,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный механик ЮПР",
       "name":"Мандрыгин Валерий Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5853,13 +6143,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель главного механика ЮПР",
       "name":"Алибаев Рифат Ришатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5873,13 +6164,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель главного механика ЮПР",
       "name":"Межуев Сергей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5893,13 +6185,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-механик ЮПР",
       "name":"Валеев Марсель Камилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5913,13 +6206,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер-энергетик ЮПР",
       "name":"Мамбетов Ильгиз Хафизович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5933,13 +6227,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник ППГУ",
       "name":"Шакиров Ильмир Шавкатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5953,13 +6248,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ламповая",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5973,13 +6269,14 @@
             "type":"вн",
             "number":596
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Весовая ЮПР (портал) ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -5993,13 +6290,14 @@
             "type":"вн",
             "number":474
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Участок по добыче, креплению и ремонту горных выработок №1",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6013,13 +6311,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Назаров Валерий Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6033,13 +6332,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Маштаков Александр Леонидович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6053,13 +6353,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Кравчук Евгений Анатольевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6073,13 +6374,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Участок горно-проходческих работ №2",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6093,13 +6395,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Глущенко Александр Иванович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6113,13 +6416,14 @@
             "type":"вн",
             "number":583
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Потрусов Алексей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6133,13 +6437,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Ребро Виктор Иванович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6153,13 +6458,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Участок по эксплуатации и ремонту самоходного оборудования №3",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6173,13 +6479,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Федоров Олег Валерьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6193,13 +6500,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Арабаджи Роман Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6213,13 +6521,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Пожанский Денис Петрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6233,13 +6542,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Участок по эксплуатации и ремонту бурового оборудования №4",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6253,13 +6563,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Малахов Евгений Геннадьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6273,13 +6584,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Булатов Максим Ирекович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6293,13 +6605,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Сабитов Вадим Иштуганович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6313,13 +6626,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специализированный участок взрывных работ №5",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6333,13 +6647,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Гайдичар Сергей Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6353,13 +6668,14 @@
             "type":"вн",
             "number":497
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Трофимов Станислав Валентинович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6373,13 +6689,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Чипшев Михаил Анатольевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6393,13 +6710,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Участок по добыче, креплению и ремонту горных выработок №6",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6413,13 +6731,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Губайдуллин Рамиль Рамазанович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6433,13 +6752,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Кадыров Руслан Раисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6453,13 +6773,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Денисов Виталий Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6473,13 +6794,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Комплексный участок закладочных работ №7",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6493,13 +6815,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Блохин Сергей Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6513,13 +6836,14 @@
             "type":"вн",
             "number":228
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Бирюков Дмитрий Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6533,13 +6857,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Гибадуллин Руслан Ришатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6553,13 +6878,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Комплексный участок подъемных машин №8",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6573,13 +6899,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка",
       "name":"Бобровский Андрей Витальевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6593,13 +6920,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Абдрахимов Наиль Раисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6613,13 +6941,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника участка",
       "name":"Никитин Сергей Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6633,13 +6962,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел сопровождения горного производства",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6653,13 +6983,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Руководитель горного производства",
       "name":"Бондаренко Дмитрий Алексеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6673,13 +7004,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по сопровождению производства",
       "name":"Бирюков Сергей Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6693,13 +7025,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по сопровождению производства",
       "name":"Васильев Александр Юрьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6713,13 +7046,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по сопровождению производства",
       "name":"Демченко Дмитрий Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6733,13 +7067,14 @@
             "type":"вн",
             "number":465
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер по сопровождению производства",
       "name":"Шевкоплясов Сергей Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6753,13 +7088,14 @@
             "type":"вн",
             "number":543
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6773,13 +7109,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6793,13 +7130,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по сопровождению производства",
       "name":"Горлач Алексей Викторович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6813,13 +7151,14 @@
             "type":"вн",
             "number":553
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по сопровождению производства",
       "name":"Мурзабулатов Ризван Ильшатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6833,13 +7172,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по ГСМ и нормированию материальных ресурсов",
       "name":"Долматова Светлана Владимировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6853,13 +7193,14 @@
             "type":"вн",
             "number":464
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ремонтно-строительный участок",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6873,13 +7214,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник РСУ",
       "name":"Заитов Ильдар Нуруллович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6893,13 +7235,14 @@
             "type":"вн",
             "number":406
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник ПТО РСУ",
       "name":"Переведенцева Назира Рамилевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6913,13 +7256,14 @@
             "type":"вн",
             "number":385
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист РСУ",
       "name":"Байзигитов Ильнур Ирикович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6933,13 +7277,14 @@
             "type":"вн",
             "number":209
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер ПТО РСУ",
       "name":"Акулинина Наталья Александровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6953,13 +7298,14 @@
             "type":"вн",
             "number":385
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Сметно-договорной отдел.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6973,13 +7319,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник СДО",
       "name":"Шарафутдинов Руслан Раефович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -6993,13 +7340,14 @@
             "type":"вн",
             "number":175
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. начальника отдела",
       "name":"Аманбаева Райля  Рустамовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7013,13 +7361,14 @@
             "type":"вн",
             "number":170
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по сметной работе ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7033,13 +7382,14 @@
             "type":"вн",
             "number":108
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по сметной работе",
       "name":"Заикина Анна Андреевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7053,13 +7403,14 @@
             "type":"вн",
             "number":150
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бюро инжиниринговой подготовки проектов капитального строительства",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7073,13 +7424,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник бюро",
       "name":"Фаизов Айдар Рашитович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7093,13 +7445,14 @@
             "type":"вн",
             "number":320
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по горным работам",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7113,13 +7466,14 @@
             "type":"вн",
             "number":317
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по подготовке проектов КС",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7133,13 +7487,14 @@
             "type":"вн",
             "number":428
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Управление охраны труда, производственного контроля и ПБ ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7153,7 +7508,8 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
@@ -7162,7 +7518,7 @@
          "hyperlink":"mailto:otpb@bmrb.ru"
       },
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7176,13 +7532,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Руководитель управления ОТ ПК и ПБ",
       "name":"Исянбаев Дамир Амирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7196,13 +7553,14 @@
             "type":"вн",
             "number":382
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. руководителя управления ОТ ПК и ПБ - начальник службы производственного контроля вспомогательного и обогатительного производств",
       "name":"Филин Александр Анатольевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7216,13 +7574,14 @@
             "type":"вн",
             "number":501
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела ГО, ЧС и пожарной безопасности",
       "name":"Дистанов Раис Марсович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7236,13 +7595,14 @@
             "type":"вн",
             "number":394
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инспектор горно-технический на ПГР (по вахте)",
       "name":"Зайцев Дмитрий Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7256,13 +7616,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Варюхин Вильдан Васильевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7276,13 +7637,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Путинцев Константин Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7296,13 +7658,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Шарифуллин Ильнур Данилович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7316,13 +7679,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по ОТ и ПБ на ОГР и объектах шахтной поверхности",
       "name":"Баталов Вячеслав Михайлович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7336,13 +7700,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий специалист по ОТ и ПБ (по вахте)",
       "name":"Магафуров Вадим Надирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7356,13 +7721,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":"Бадретдинов Рашит Мансурович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7376,13 +7742,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий специалист по ОТ и ПБ обогатительного производства",
       "name":"Илембетов Яныбай Ахатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7396,13 +7763,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий специалист по ОТ и ПБ на транспорте",
       "name":"Сергиенко Евгений Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7416,13 +7784,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по ОТ и ПБ",
       "name":"Зимбурская Анастасия Андреевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7436,13 +7805,14 @@
             "type":"вн",
             "number":129
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел по охране окружающей среды (экологии).",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7456,13 +7826,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный эколог-начальник отдела",
       "name":"Шишкина Екатерина Сергеевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7476,13 +7847,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"И.о. начальника отдела ООС",
       "name":"Нугманова Гульнар Фазыльяновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7496,13 +7868,14 @@
             "type":"вн",
             "number":"ОФ:227"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7516,13 +7889,14 @@
             "type":"вн",
             "number":"Сибай: 112"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"И.о. заместителя начальника отдела ООС",
       "name":"Шагеева Римма Рифовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7536,13 +7910,14 @@
             "type":"вн",
             "number":147
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер отдела ООС",
       "name":"Янбердина Язгуль Салихьяновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7556,13 +7931,14 @@
             "type":"вн",
             "number":147
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Юридический отдел",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7576,13 +7952,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник юр.  отдела",
       "name":"Аминов Рустам Мубаракович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7596,13 +7973,14 @@
             "type":"вн",
             "number":186
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Юрисконсульт",
       "name":"Китикова Регина Равилевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7616,13 +7994,14 @@
             "type":"вн",
             "number":144
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7636,13 +8015,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Юрисконсульт",
       "name":"Абдрахманов Риза Ильясович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7656,13 +8036,14 @@
             "type":"вн",
             "number":159
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бюро земельно-имущественных отношений",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7676,13 +8057,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник бюро",
       "name":"Харченко Ирина Викторовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7696,13 +8078,14 @@
             "type":"вн",
             "number":610
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел материально-технического обеспечения и складского хозяйства.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7716,13 +8099,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"bashmed_omto@bmrb.ru",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7736,13 +8120,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"И.О. начальника",
       "name":"Зюзин Павел Юрьевич ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7756,13 +8141,14 @@
             "type":"вн",
             "number":"212/309"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. начальника по закупкам материалов ОМТО",
       "name":"Замула Иван Валерьевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7776,13 +8162,14 @@
             "type":"вн",
             "number":395
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер ОМТО",
       "name":"Столяров Никита Евгеньевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7796,13 +8183,14 @@
             "type":"вн",
             "number":212
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер ОМТО",
       "name":"Плешивцев Виталий Александрович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7816,13 +8204,14 @@
             "type":"вн",
             "number":400
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер ОМТО",
       "name":"Ибрагимов Арзу Бахаддинович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7836,13 +8225,14 @@
             "type":"вн",
             "number":308
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист ",
       "name":"Исканьярова Алия Ильгамовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7856,13 +8246,14 @@
             "type":"вн",
             "number":318
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер ОМТО",
       "name":"Петров Максим Николаевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7876,13 +8267,14 @@
             "type":"вн",
             "number":215
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер ОМТО",
       "name":"Байсуваков Газизьян Талгатович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7896,13 +8288,14 @@
             "type":"вн",
             "number":165
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. начальника отдела по комплектации оборудования ",
       "name":"Мустафин Ильфат Магадеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7916,13 +8309,14 @@
             "type":"вн",
             "number":181
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по комплектации оборудования",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7936,13 +8330,14 @@
             "type":"вн",
             "number":212
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер по комплектации оборудования",
       "name":"Бельгер Татьяна Леонтьевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7956,13 +8351,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"АЗС",
       "name":"Касьянова Елена Павловна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7976,13 +8372,14 @@
             "type":"вн",
             "number":449
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Цех складского хозяйства.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -7996,13 +8393,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник цеха",
       "name":"Билалова Юлия Викторовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8016,13 +8414,14 @@
             "type":"вн",
             "number":455
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заведующий складом ОФ",
       "name":"Абдулгужин Халил Гумарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8036,13 +8435,14 @@
             "type":"вн",
             "number":475
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник участка ПРП",
       "name":"Кулябин Николай Анатольевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8056,13 +8456,14 @@
             "type":"вн",
             "number":356
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Склад ЦС/ОФ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8076,13 +8477,14 @@
             "type":"вн",
             "number":520
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Склад СИЗ",
       "name":"Шайдуллина А.С.",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8096,13 +8498,14 @@
             "type":"вн",
             "number":546
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный бухгалтер Фабрицына Рита Ахметовна",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8116,7 +8519,8 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
@@ -8125,7 +8529,7 @@
          "hyperlink":"mailto:Fabrita@bmrb.ru"
       },
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8139,13 +8543,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Главный бухгалтер",
       "name":"Фабрицына Рита Ахметовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8159,13 +8564,14 @@
             "type":"вн",
             "number":167
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. главного бухгалтера",
       "name":"Карпова Вера Павловна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8179,13 +8585,14 @@
             "type":"вн",
             "number":161
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по налогам",
       "name":"Файзуллина Алина Ильдаровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8199,13 +8606,14 @@
             "type":"вн",
             "number":"168, 145"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по налоговому учету",
       "name":"Вагапова Юлия Фазылитдиновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8219,13 +8627,14 @@
             "type":"вн",
             "number":169
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по учету КС",
       "name":"Ильясов Тимур Ирикович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8239,13 +8648,14 @@
             "type":"вн",
             "number":172
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по ведению учёта в соотв. с  МСФО",
       "name":"Алонцева Галина Анатольевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8259,13 +8669,14 @@
             "type":"вн",
             "number":192
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бюро по расчету с персоналом",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8279,13 +8690,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Нач. бюро по расчету с персон.",
       "name":"Рахматуллина Зиля Тафтизановна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8299,13 +8711,14 @@
             "type":"вн",
             "number":162
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бух. по расчету с персоналом",
       "name":"Ковязина Ольга Генадьевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8319,13 +8732,14 @@
             "type":"вн",
             "number":381
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бух. по расчёту с персоналом",
       "name":"Байчурина Лилия Фанисовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8339,13 +8753,14 @@
             "type":"вн",
             "number":163
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бюро по учету производства и материалов",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8359,13 +8774,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник бюро",
       "name":"Ласынова Айгуль Шафкатовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8379,13 +8795,14 @@
             "type":"вн",
             "number":554
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по учёту материалов",
       "name":"Гришаева Екатерина Александровна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8399,13 +8816,14 @@
             "type":"вн",
             "number":125
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бух. по расчету с поставщиками",
       "name":"Гибадатова Райса Закировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8419,13 +8837,14 @@
             "type":"вн",
             "number":164
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по учёту материалов",
       "name":"Юланова Зубаржат Динисламовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8439,13 +8858,14 @@
             "type":"вн",
             "number":667
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бух. по учету основных средств",
       "name":"Исяньюлова Дина Дамировна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8459,13 +8879,14 @@
             "type":"вн",
             "number":191
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по учёту материалов",
       "name":"Шитова Оксана Минигаллевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8479,13 +8900,14 @@
             "type":"вн",
             "number":125
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бухгалтер по производству",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8499,13 +8921,14 @@
             "type":"вн",
             "number":164
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Финансово-сбытовой отдел.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8519,13 +8942,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник ФСО",
       "name":"Еникеев Ильгам Ибрагимович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8539,13 +8963,14 @@
             "type":"вн",
             "number":"429  ХОФ"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8559,13 +8984,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8579,13 +9005,14 @@
             "type":"вн",
             "number":"206  Сибай"
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. начальника ФСО",
       "name":"Мустафина Альбина Рафаэлевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8599,13 +9026,14 @@
             "type":"вн",
             "number":448
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист по финансовой работе",
       "name":"Сахно Анна Николаевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8619,13 +9047,14 @@
             "type":"вн",
             "number":156
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист ФСО",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8639,13 +9068,14 @@
             "type":"вн",
             "number":223
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел бюджетирования. o.budget@bmrb.ru",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8659,13 +9089,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела бюджетирования",
       "name":"Хусаинов Ахнаф Дамирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8679,13 +9110,14 @@
             "type":"вн",
             "number":140
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. начальника отдела",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8699,13 +9131,14 @@
             "type":"вн",
             "number":139
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист",
       "name":"Кильдиярова Алёна Эдуардовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8719,13 +9152,14 @@
             "type":"вн",
             "number":138
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист по планированию",
       "name":"Ахметов Ильдар Уелданович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8739,13 +9173,14 @@
             "type":"вн",
             "number":137
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Экономист",
       "name":"Тарасова Лариса Николаевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8759,13 +9194,14 @@
             "type":"вн",
             "number":136
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел труда и заработной платы.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8779,13 +9215,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела по труду и заработной плате",
       "name":"Султанов Виль Вилевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8799,13 +9236,14 @@
             "type":"вн",
             "number":131
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. начальника ОТиЗ",
       "name":"Логинов Андрей Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8819,13 +9257,14 @@
             "type":"вн",
             "number":132
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Ведущий инженер",
       "name":"Аминев Ильгиз Муритович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8839,13 +9278,14 @@
             "type":"вн",
             "number":321
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Нормировщик обогатительной фабрики",
       "name":"Махмутова Рада Маратовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8859,13 +9299,14 @@
             "type":"вн",
             "number":547
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Нормировщик горный",
       "name":"Дмитриев Наиль Николаевич ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8879,13 +9320,14 @@
             "type":"вн",
             "number":632
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел по системе управления эффективностью.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8899,13 +9341,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела",
       "name":"Ямалетдинов Руслан Анварович ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8919,13 +9362,14 @@
             "type":"вн",
             "number":127
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел кадров.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8939,13 +9383,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела кадров",
       "name":"Мамбетова Зилия Рафаилевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8959,13 +9404,14 @@
             "type":"вн",
             "number":123
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заместитель начальника",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8979,13 +9425,14 @@
             "type":"вн",
             "number":119
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник учебного центра и.о.",
       "name":"Куватова Гульфия Имаметдиновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -8999,13 +9446,14 @@
             "type":"вн",
             "number":625
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист учебного центра",
       "name":"Кулумбетова Камилла Ильшатовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9019,13 +9467,14 @@
             "type":"вн",
             "number":360
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инспектор по кадрам",
       "name":"Терешкова Дарья Дмитриевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9039,13 +9488,14 @@
             "type":"вн",
             "number":121
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инспектор по кадрам",
       "name":"Назарова Виктория Валерьевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9059,13 +9509,14 @@
             "type":"вн",
             "number":552
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инспектор по учету и бронированию военнобязанных граждан",
       "name":"Нигматуллин Идель Винерович  ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9079,13 +9530,14 @@
             "type":"вн",
             "number":115
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Служба социально-бытового обслуживания (ССБО)",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9099,13 +9551,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник  службы ССБО",
       "name":"Бедыс Юлия Павловна ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9119,13 +9572,14 @@
             "type":"вн",
             "number":565
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зам. начальника ССБО",
       "name":"Триволенко Надежда Константиновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9139,13 +9593,14 @@
             "type":"вн",
             "number":590
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Делопроизводитель",
       "name":"Байчурина Альфия Ибрагимовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9159,13 +9614,14 @@
             "type":"вн",
             "number":185
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник канцелярии",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9179,13 +9635,14 @@
             "type":"вн",
             "number":185
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Секретарь руководителя",
       "name":"Кудабаева Римма Мензариповна ",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9199,13 +9656,14 @@
             "type":"вн",
             "number":311
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Зав. архивом",
       "name":"Баранова Регина Шарифулловна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9219,13 +9677,14 @@
             "type":"вн",
             "number":157
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист ССБО",
       "name":"Елкибаева Зиля Агзамовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9239,13 +9698,14 @@
             "type":"вн",
             "number":176
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по социальному развитию ",
       "name":"Иманбаева Альбина Рафкатовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9259,13 +9719,14 @@
             "type":"вн",
             "number":177
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Спец. по связям с общ.и СМИ",
       "name":"Мустафин Эдуард Миратович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9279,13 +9740,14 @@
             "type":"вн",
             "number":196
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Заведующий хозяйством",
       "name":"Смирнова Ирина Николаевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9299,13 +9761,14 @@
             "type":"вн",
             "number":634
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел  контроля и режима",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9319,13 +9782,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела",
       "name":"Соколов Кирилл Михайлович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9339,13 +9803,14 @@
             "type":"вн",
             "number":409
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":null,
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9359,13 +9824,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по эконом безопасти",
       "name":"Байгускаров Раил Зуфарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9379,13 +9845,14 @@
             "type":"вн",
             "number":657
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Специалист по техническим средствам охраны",
       "name":"Давлетшин Дим Ахметович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9399,13 +9866,14 @@
             "type":"вн",
             "number":410
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бюро пропусков",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9419,13 +9887,14 @@
             "type":"вн",
             "number":346
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Отдел информационных технологий и связи.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9439,13 +9908,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник отдела ",
       "name":"Шехтман Кирилл Борисович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9459,13 +9929,14 @@
             "type":"вн",
             "number":222
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер - программист",
       "name":"Куликов Виктор Сергеевич",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9479,13 +9950,14 @@
             "type":"вн",
             "number":180
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер - программист",
       "name":"Сынгизов Ринат Искандарович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9499,13 +9971,14 @@
             "type":"вн",
             "number":435
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Инженер - программист",
       "name":"Тарасов Сергей Владимирович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9519,13 +9992,14 @@
             "type":"вн",
             "number":541
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"ИСМ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9539,13 +10013,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"И.О. Специалист по ИСМ, Председатель МС",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9559,13 +10034,14 @@
             "type":"вн",
             "number":227
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Медпункт АБК ОФ.",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9579,13 +10055,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Старший фельдшер",
       "name":"Куяжбаева Гузель Фазыльяновна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9599,13 +10076,14 @@
             "type":"вн",
             "number":336
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Фельдшер",
       "name":"Кутлубердина Загира Хурматовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9619,13 +10097,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Фельдшер",
       "name":"Ахметова Вилена Юнусовна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9639,13 +10118,14 @@
             "type":"вн",
             "number":336
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Фельдшер",
       "name":"Идельбаева Сания Магадеевна",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9659,13 +10139,14 @@
             "type":"вн",
             "number":336
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Скорая помощь ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9679,13 +10160,14 @@
             "type":"вн",
             "number":"323 – рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Прочее",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9699,13 +10181,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"УГМК-Телеком",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9719,13 +10202,14 @@
             "type":"вн",
             "number":541
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Подстанция РУДНИЧНАЯ 110 кВт",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9739,13 +10223,14 @@
             "type":"вн",
             "number":592
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"ВГСЧ  ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9759,13 +10244,14 @@
             "type":"вн",
             "number":"РАЦИИ: 248, 278, 349."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"ГВУ",
       "name":"Гумеров Радмир Каримович",
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9779,13 +10265,14 @@
             "type":"вн",
             "number":421
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"ГВУ лебедочная",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9799,13 +10286,14 @@
             "type":"вн",
             "number":530
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"ГВУ вент. канал",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9819,13 +10307,14 @@
             "type":"вн",
             "number":531
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"ГВУ ЮВС",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9839,13 +10328,14 @@
             "type":"вн",
             "number":532
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"РТП",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9859,13 +10349,14 @@
             "type":"вн",
             "number":535
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Котельная 4-я",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9879,13 +10370,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Котельная 3-я",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9899,13 +10391,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Котельная 2-я",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9919,13 +10412,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Дергамышское месторождение ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9939,13 +10433,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"БСУ 1000",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9959,13 +10454,14 @@
             "type":"вн",
             "number":405
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"БРУ Кобра",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9979,13 +10475,14 @@
             "type":"вн",
             "number":538
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"компрессорная",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -9999,13 +10496,14 @@
             "type":"вн",
             "number":518
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Емкость 500 куб",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10019,13 +10517,14 @@
             "type":"вн",
             "number":459
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Начальник охраны ЧОО Батыр",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10039,13 +10538,14 @@
             "type":"вн",
             "number":561
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Охрана АБК ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10059,13 +10559,14 @@
             "type":"вн",
             "number":"357,200 – рация."
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"КПП Верхний вахтовый городок",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10079,13 +10580,14 @@
             "type":"вн",
             "number":548
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"КПП ПС Рудничная 110 кВ",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10099,13 +10601,14 @@
             "type":"вн",
             "number":559
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"КПП ПРП г. Сибай",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10119,13 +10622,14 @@
             "type":"вн",
             "number":509
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Бюро пропусков ЧОО Батыр",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10139,13 +10643,14 @@
             "type":"вн",
             "number":485
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Охрана городок",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10159,13 +10664,14 @@
             "type":"вн",
             "number":null
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Охрана офис г. Сибай",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10179,13 +10685,14 @@
             "type":"вн",
             "number":106
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Дежурная часть",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10199,13 +10706,14 @@
             "type":"вн",
             "number":351
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Охр. агентство «Легион-Д»",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10219,13 +10727,14 @@
             "type":"вн",
             "number":413
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Учебный класс АБК",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10239,13 +10748,14 @@
             "type":"вн",
             "number":219
          }
-      ]
+      ],
+      "type":0
    },
    {
       "departament":"null",
       "post":"Комната для гостей (напротив 3 каб АБК)",
       "name":null,
-      "type":0,
+      "mail":"null",
       "numbers":[
          {
             "type":"корп",
@@ -10259,6 +10769,28 @@
             "type":"вн",
             "number":434
          }
-      ]
+      ],
+      "type":0
+   },
+   {
+      "departament":"null",
+      "post":null,
+      "name":null,
+      "mail":"null",
+      "numbers":[
+         {
+            "type":"корп",
+            "number":null
+         },
+         {
+            "type":"раб",
+            "number":null
+         },
+         {
+            "type":"вн",
+            "number":null
+         }
+      ],
+      "type":0
    }
 ]
