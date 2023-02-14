@@ -10819,5 +10819,26 @@
          }
       ],
       "type":0
+   },
+   {
+      "departament":null,
+      "post":null,
+      "name":"null",
+      "mail":"null",
+      "numbers":[
+         {
+            "type":"корп",
+            "number":"null"
+         },
+         {
+            "type":"раб",
+            "number":"null"
+         },
+         {
+            "type":"вн",
+            "number":"null"
+         }
+      ],
+      "type":0
    }
 ]
