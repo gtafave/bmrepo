@@ -6763,47 +6763,5 @@
           }
        ],
        "type":0
-    },
-    {
-       "departament":"null",
-       "post":"Инженер отдела ООС",
-       "name":"Янбердина Язгуль Салихьяновна",
-       "mail":"null",
-       "numbers":[
-          {
-             "type":"корп",
-             "number":"8 937 340 80 15"
-          },
-          {
-             "type":"раб",
-             "number":"null"
-          },
-          {
-             "type":"вн",
-             "number":"147"
-          }
-       ],
-       "type":0
-    },
-    {
-       "departament":"Юридический отдел",
-       "post":"Юридический отдел",
-       "name":"null",
-       "mail":"null",
-       "numbers":[
-          {
-             "type":"корп",
-             "number":"null"
-          },
-          {
-             "type":"раб",
-             "number":"null"
-          },
-          {
-             "type":"вн",
-             "number":"null"
-          }
-       ],
-       "type":0
     }
 ]
