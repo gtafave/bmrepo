@@ -6721,47 +6721,5 @@
           }
        ],
        "type":0
-    },
-    {
-       "departament":"null",
-       "post":"null",
-       "name":"null",
-       "mail":"null",
-       "numbers":[
-          {
-             "type":"корп",
-             "number":"null"
-          },
-          {
-             "type":"раб",
-             "number":"null"
-          },
-          {
-             "type":"вн",
-             "number":"Сибай: 112"
-          }
-       ],
-       "type":0
-    },
-    {
-       "departament":"null",
-       "post":"И.о. заместителя начальника отдела ООС",
-       "name":"Шагеева Римма Рифовна",
-       "mail":"null",
-       "numbers":[
-          {
-             "type":"корп",
-             "number":"8 905 354 92 96"
-          },
-          {
-             "type":"раб",
-             "number":"null"
-          },
-          {
-             "type":"вн",
-             "number":"147"
-          }
-       ],
-       "type":0
     }
 ]
