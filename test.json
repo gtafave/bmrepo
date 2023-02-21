@@ -6088,5 +6088,869 @@
           }
        ],
        "type":0
+    },
+       {
+       "departament":"Ремонтно-строительный участок",
+       "post":"Инженер ПТО РСУ",
+       "name":"Акулинина Наталья Александровна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 965 641 51 57"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"385"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Сметно-договорной отдел.",
+       "post":"Сметно-договорной отдел.",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Сметно-договорной отдел.",
+       "post":"Начальник СДО",
+       "name":"Шарафутдинов Руслан Раефович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 937 475 00 82"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-77"
+          },
+          {
+             "type":"вн",
+             "number":"175"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Сметно-договорной отдел.",
+       "post":"Зам. начальника отдела",
+       "name":"Аманбаева Райля  Рустамовна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 929 754 01 80"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-70"
+          },
+          {
+             "type":"вн",
+             "number":"170"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Сметно-договорной отдел.",
+       "post":"Инженер по сметной работе ",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-70"
+          },
+          {
+             "type":"вн",
+             "number":"108"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Сметно-договорной отдел.",
+       "post":"Инженер по сметной работе",
+       "name":"Заикина Анна Андреевна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 927 084 63 98"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"150"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Бюро инжиниринговой подготовки проектов капитального строительства",
+       "post":"Бюро инжиниринговой подготовки проектов капитального строительства",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Бюро инжиниринговой подготовки проектов капитального строительства",
+       "post":"Начальник бюро",
+       "name":"Фаизов Айдар Рашитович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 927 309 36 22"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-71"
+          },
+          {
+             "type":"вн",
+             "number":"320"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Бюро инжиниринговой подготовки проектов капитального строительства",
+       "post":"Инженер по горным работам",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-71"
+          },
+          {
+             "type":"вн",
+             "number":"317"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Инженер по подготовке проектов КС",
+       "post":"Инженер по подготовке проектов КС",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"428"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Управление охраны труда, производственного контроля и ПБ ",
+       "post":"Управление охраны труда, производственного контроля и ПБ ",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Руководитель управления ОТ ПК и ПБ",
+       "name":"Исянбаев Дамир Амирович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 937 472 70 05"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-73"
+          },
+          {
+             "type":"вн",
+             "number":"382"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Зам. руководителя управления ОТ ПК и ПБ - начальник службы производственного контроля вспомогательного и обогатительного производств",
+       "name":"Филин Александр Анатольевич",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 905 359 77 17"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-73"
+          },
+          {
+             "type":"вн",
+             "number":"501"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Начальник отдела ГО, ЧС и пожарной безопасности",
+       "name":"Дистанов Раис Марсович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 937 472 66 10"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-86"
+          },
+          {
+             "type":"вн",
+             "number":"394"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Инспектор горно-технический на ПГР (по вахте)",
+       "name":"Зайцев Дмитрий Сергеевич",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 927 310 69 74"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"null",
+       "name":"Варюхин Вильдан Васильевич",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 922 635 69 96"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"null",
+       "name":"Путинцев Константин Сергеевич",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 905 883 22 23"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"null",
+       "name":"Шарифуллин Ильнур Данилович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 927 928 13 99"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Специалист по ОТ и ПБ на ОГР и объектах шахтной поверхности",
+       "name":"Баталов Вячеслав Михайлович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 922 234 14 84"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Ведущий специалист по ОТ и ПБ (по вахте)",
+       "name":"Магафуров Вадим Надирович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 927 344 14 68"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"null",
+       "name":"Бадретдинов Рашит Мансурович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 999 131 48 69"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Ведущий специалист по ОТ и ПБ обогатительного производства",
+       "name":"Илембетов Яныбай Ахатович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 962 521 57 25"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Ведущий специалист по ОТ и ПБ на транспорте",
+       "name":"Сергиенко Евгений Александрович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 927 345 52 95"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":{
+          "text":"otpb@bmrb.ru",
+          "hyperlink":"mailto:otpb@bmrb.ru"
+       },
+       "post":"Специалист по ОТ и ПБ",
+       "name":"Зимбурская Анастасия Андреевна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 909 348 14 84"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"129"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Отдел по охране окружающей среды (экологии).",
+       "post":"Отдел по охране окружающей среды (экологии).",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Отдел по охране окружающей среды (экологии).",
+       "post":"Главный эколог-начальник отдела",
+       "name":"Шишкина Екатерина Сергеевна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"д/о"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Отдел по охране окружающей среды (экологии).",
+       "post":"И.о. начальника отдела ООС",
+       "name":"Нугманова Гульнар Фазыльяновна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 987 599 37 34"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-74"
+          },
+          {
+             "type":"вн",
+             "number":"ОФ:227"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"null",
+       "post":"null",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"Сибай: 112"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"null",
+       "post":"И.о. заместителя начальника отдела ООС",
+       "name":"Шагеева Римма Рифовна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 905 354 92 96"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"147"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"null",
+       "post":"Инженер отдела ООС",
+       "name":"Янбердина Язгуль Салихьяновна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 937 340 80 15"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"147"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Юридический отдел",
+       "post":"Юридический отдел",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Юридический отдел",
+       "post":"Начальник юр.  отдела",
+       "name":"Аминов Рустам Мубаракович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 906 375 55 35,8 937 850 21 27"
+          },
+          {
+             "type":"раб",
+             "number":" 8 (34775) 4-27-75, 8 (34775) 4-27-89.."
+          },
+          {
+             "type":"вн",
+             "number":"186"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Юридический отдел",
+       "post":"Юрисконсульт",
+       "name":"Китикова Регина Равилевна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 996 623 53 97"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-75"
+          },
+          {
+             "type":"вн",
+             "number":"144"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"null",
+       "post":"null",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"null",
+       "post":"Юрисконсульт",
+       "name":"Абдрахманов Риза Ильясович",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 937 475 64 54"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34758) 2-47-07"
+          },
+          {
+             "type":"вн",
+             "number":"159"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Бюро земельно-имущественных отношений",
+       "post":"Бюро земельно-имущественных отношений",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Бюро земельно-имущественных отношений",
+       "post":"Начальник бюро",
+       "name":"Харченко Ирина Викторовна",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"8 937 850 21 43"
+          },
+          {
+             "type":"раб",
+             "number":"8 (34775) 4-27-75"
+          },
+          {
+             "type":"вн",
+             "number":"610"
+          }
+       ],
+       "type":0
+    },
+    {
+       "departament":"Отдел материально-технического обеспечения и складского хозяйства.",
+       "post":"Отдел материально-технического обеспечения и складского хозяйства.",
+       "name":"null",
+       "mail":"null",
+       "numbers":[
+          {
+             "type":"корп",
+             "number":"null"
+          },
+          {
+             "type":"раб",
+             "number":"null"
+          },
+          {
+             "type":"вн",
+             "number":"null"
+          }
+       ],
+       "type":0
     }
 ]
