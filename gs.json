@@ -1,7 +1,4 @@
-      
-{
-    "response": {
-      "account": [
+[
         {
           "extension": "101",
           "account_type": "SIP(WebRTC)",
@@ -2025,11 +2022,5 @@
           "status": "Idle",
           "addr": "10.59.4.227:43781"
         }
-      ],
-      "total_item": 289,
-      "total_page": 1,
-      "page": 1
-    },
-    "status": 0
-  }
+   ]
       
