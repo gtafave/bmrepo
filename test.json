@@ -108,6 +108,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "ОР"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "AbdrahimovSS@bmrb.ru"
@@ -192,6 +198,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "ЦСХ"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "AbdulgujinHG@bmrb.ru"
@@ -216,6 +228,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "309"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             }
         ],
@@ -333,6 +351,12 @@
                 "type": "cn",
                 "values": [
                     "Абубакиров Артур Раилович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Отдел развития"
                 ]
             },
             {
@@ -564,6 +588,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Отдел бюджетирования"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "AhmetovIU@bmrb.ru"
@@ -624,6 +654,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "515, 390"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             },
             {
@@ -702,6 +738,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "606"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             },
             {
@@ -789,6 +831,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Служба управления проектом Юбилейного месторождения"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "AlekseenkoPU@bmrb.ru"
@@ -873,6 +921,12 @@
                 "type": "cn",
                 "values": [
                     "Алибаев Айтуган Радикович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОР"
                 ]
             },
             {
@@ -1024,6 +1078,12 @@
                 "values": [
                     "Аллабердина Лилия Гилемдаровна"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Финансово сбытовой отдел"
+                ]
             }
         ],
         "controls": []
@@ -1095,6 +1155,12 @@
                 "type": "cn",
                 "values": [
                     "Альметова Венера Анваровна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Автотранспортный цех"
                 ]
             },
             {
@@ -1356,6 +1422,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "юридический"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "AminovRM@bmrb.ru"
@@ -1437,6 +1509,12 @@
                 "type": "cn",
                 "values": [
                     "Антипин Владимир Сергеевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ПТО"
                 ]
             },
             {
@@ -2592,6 +2670,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "АХО"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "BaichurinaAI@bmrb.ru"
@@ -2610,6 +2694,12 @@
                 "type": "cn",
                 "values": [
                     "Байчурина Лилия Фанисовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бюро по расчету с персоналом"
                 ]
             },
             {
@@ -2796,6 +2886,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "СУП Подольское"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "BardinAA@bmrb.ru"
@@ -2946,6 +3042,12 @@
                 "type": "cn",
                 "values": [
                     "Батырова Альбина Раисовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бухгалтерия"
                 ]
             },
             {
@@ -3150,6 +3252,27 @@
         "messageId": 2,
         "protocolOp": 100,
         "type": "SearchResultEntry",
+        "objectName": "CN=\\d0\\91\\d0\\b0\\d0\\b9\\d0\\ba\\d0\\be\\d0\\b2 \\d0\\a0\\d0\\b5\\d0\\bd\\d0\\b0\\d1\\82 \\d0\\a0\\d0\\b0\\d0\\b8\\d1\\81\\d0\\be\\d0\\b2\\d0\\b8\\d1\\87,OU=\\d0\\93\\d0\\9e\\d0\\b8\\d0\\a7\\d0\\a1,OU=All_Users,DC=bm,DC=local",
+        "attributes": [
+            {
+                "type": "cn",
+                "values": [
+                    "Байков Ренат Раисович"
+                ]
+            },
+            {
+                "type": "mail",
+                "values": [
+                    "BaykovRR@bmrb.ru"
+                ]
+            }
+        ],
+        "controls": []
+    },
+    {
+        "messageId": 2,
+        "protocolOp": 100,
+        "type": "SearchResultEntry",
         "objectName": "CN=BAYMUHAMETOVADZ,CN=Computers,DC=bm,DC=local",
         "attributes": [
             {
@@ -3171,6 +3294,12 @@
                 "type": "cn",
                 "values": [
                     "Баймурзин Шайнур Кабирович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АХО"
                 ]
             },
             {
@@ -3234,6 +3363,12 @@
                 "type": "cn",
                 "values": [
                     "Байсуваков Газизьян Талгатович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бюджетирование"
                 ]
             },
             {
@@ -3498,6 +3633,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Рудник подземный"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "BikbulatovAF@bmrb.ru"
@@ -3612,6 +3753,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "BiryukovAS@bmrb.ru"
@@ -3658,6 +3805,12 @@
                 "values": [
                     "204"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
+                ]
             }
         ],
         "controls": []
@@ -3672,6 +3825,12 @@
                 "type": "cn",
                 "values": [
                     "Блинков Сергей Сергеевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АУП"
                 ]
             },
             {
@@ -8508,6 +8667,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "АУП"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "BodrenkovAE@bmrb.ru"
@@ -9100,6 +9265,12 @@
                 "values": [
                     "Чебоксарцев Игорь Леонидович"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "СЮПР"
+                ]
             }
         ],
         "controls": []
@@ -9195,6 +9366,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Автотранспортный цех"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "CherneikinNN@bmrb.ru"
@@ -9255,6 +9432,12 @@
                 "type": "cn",
                 "values": [
                     "Инженер-химик ЦХЛ"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ЦХЛ"
                 ]
             },
             {
@@ -9847,6 +10030,12 @@
                 "values": [
                     "Давыдов Денис Витальевич"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
+                ]
             }
         ],
         "controls": []
@@ -10104,6 +10293,12 @@
                 "type": "cn",
                 "values": [
                     "Демидов Сергей Викторович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             },
             {
@@ -10465,6 +10660,12 @@
                 "values": [
                     "Абдульманова Диля Рифовна"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Финансово сбытовой отдел"
+                ]
             }
         ],
         "controls": []
@@ -10806,7 +11007,7 @@
         "messageId": 2,
         "protocolOp": 100,
         "type": "SearchResultEntry",
-        "objectName": "CN=\\d0\\94\\d0\\b8\\d1\\81\\d1\\82\\d0\\b0\\d0\\bd\\d0\\be\\d0\\b2 \\d0\\a0\\d0\\b0\\d0\\b8\\d1\\81 \\d0\\9c\\d0\\b0\\d1\\80\\d1\\81\\d0\\be\\d0\\b2\\d0\\b8\\d1\\87,OU=\\d0\\9e\\d1\\85\\d1\\80\\d0\\b0\\d0\\bd\\d0\\b0 \\d1\\82\\d1\\80\\d1\\83\\d0\\b4\\d0\\b0,OU=All_Users,DC=bm,DC=local",
+        "objectName": "CN=\\d0\\94\\d0\\b8\\d1\\81\\d1\\82\\d0\\b0\\d0\\bd\\d0\\be\\d0\\b2 \\d0\\a0\\d0\\b0\\d0\\b8\\d1\\81 \\d0\\9c\\d0\\b0\\d1\\80\\d1\\81\\d0\\be\\d0\\b2\\d0\\b8\\d1\\87,OU=\\d0\\93\\d0\\9e\\d0\\b8\\d0\\a7\\d0\\a1,OU=All_Users,DC=bm,DC=local",
         "attributes": [
             {
                 "type": "cn",
@@ -10971,6 +11172,12 @@
                 "type": "cn",
                 "values": [
                     "Доска решения проблем"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "OP"
                 ]
             },
             {
@@ -11220,6 +11427,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Отдел бюджетирования"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "EnikeevII@bmrb.ru"
@@ -11421,6 +11634,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "EvteevMI@bmrb.ru"
@@ -11550,6 +11769,12 @@
                 "type": "cn",
                 "values": [
                     "Фабрицына Рита Ахметовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бухгалтерия"
                 ]
             },
             {
@@ -11712,6 +11937,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Бухгалтерия"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "FaizullinaAI@bmrb.ru"
@@ -11838,6 +12069,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "АУП"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "oks@bmrb.ru"
@@ -11934,6 +12171,12 @@
                 "type": "cn",
                 "values": [
                     "Фабрика идей1"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "OP"
                 ]
             },
             {
@@ -12255,6 +12498,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Бюро по учету производства и материалов"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "GalinaDZ@bmrb.ru"
@@ -12273,6 +12522,12 @@
                 "type": "cn",
                 "values": [
                     "Галиуллин Роберт Ахатович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АУП"
                 ]
             }
         ],
@@ -12318,6 +12573,12 @@
                 "type": "cn",
                 "values": [
                     "Галлямова Гульназ Римовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ПТО"
                 ]
             },
             {
@@ -12465,6 +12726,12 @@
                 "type": "cn",
                 "values": [
                     "Гатауллина Земфира Халимовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "OP"
                 ]
             },
             {
@@ -12735,6 +13002,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Бюро по учету производства и материалов"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "GibadatovaRS@bmrb.ru"
@@ -12804,6 +13077,12 @@
                 "type": "cn",
                 "values": [
                     "Гимаева Юлия Фазылитдиновна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бухгалтерия"
                 ]
             },
             {
@@ -13206,6 +13485,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "СЮПР"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "GorlachAV@bmrb.ru"
@@ -13368,6 +13653,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Бюро по учету производства и материалов"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "GrishaevaEA@bmrb.ru"
@@ -13485,6 +13776,12 @@
                 "type": "cn",
                 "values": [
                     "Гумеров Рустам Салаватович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "РСУ"
                 ]
             },
             {
@@ -13815,6 +14112,12 @@
                 "type": "cn",
                 "values": [
                     "Харрасова Фаниля Рафкатовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бухгалтерия"
                 ]
             },
             {
@@ -14271,6 +14574,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Финансово-сбытовой отдел"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "IbragimovaGH@bmrb.ru"
@@ -14517,6 +14826,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "177"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АХО"
                 ]
             },
             {
@@ -14895,6 +15210,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Автотранспортный цех"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "IshkildinIS@bmrb.ru"
@@ -15018,6 +15339,12 @@
                 "type": "cn",
                 "values": [
                     "Исканьярова Алия Ильгамовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             },
             {
@@ -15147,6 +15474,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "ЦМС рудник"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "IsyantaevRF@bmrb.ru"
@@ -15165,6 +15498,12 @@
                 "type": "cn",
                 "values": [
                     "Исяньюлова Дина Дамировна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бюро по учету производства и материалов"
                 ]
             },
             {
@@ -15474,6 +15813,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "АХО"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "KarabaevaSA@bmrb.ru"
@@ -15528,6 +15873,12 @@
                 "type": "cn",
                 "values": [
                     "Каримов Азат Сайфуллович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "УКС"
                 ]
             },
             {
@@ -15720,6 +16071,12 @@
                 "type": "cn",
                 "values": [
                     "Касьянова Елена Павловна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Отдел материально-технического обесп. и складского хозяйства"
                 ]
             },
             {
@@ -15942,6 +16299,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "ОР"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "KhalitovRK@bmrb.ru"
@@ -15981,6 +16344,12 @@
                 "type": "cn",
                 "values": [
                     "Хусаинов Ахнаф Дамирович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Отдел бюджетирования"
                 ]
             },
             {
@@ -16131,6 +16500,12 @@
                 "type": "cn",
                 "values": [
                     "Китикова Регина Равилевна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Юридический"
                 ]
             },
             {
@@ -16650,6 +17025,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Служба управления проектом по строительству Юбилейного месторожд"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "KorobkoAV@bmrb.ru"
@@ -16749,6 +17130,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "KotovaDP@bmrb.ru"
@@ -16770,6 +17157,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Бюро по расчету с персоналом"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "KovyazinaOG@bmrb.ru"
@@ -16788,6 +17181,12 @@
                 "type": "cn",
                 "values": [
                     "Ковязин Игорь Борисович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             },
             {
@@ -17133,6 +17532,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "KurochkinPN@bmrb.ru"
@@ -17244,6 +17649,12 @@
                 "type": "cn",
                 "values": [
                     "Кутуева Лилия Фанисовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бухгалтерия"
                 ]
             },
             {
@@ -17367,6 +17778,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Бюро по учету производства и материалов"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "KuzibaevTI@bmrb.ru"
@@ -17436,6 +17853,12 @@
                 "type": "cn",
                 "values": [
                     "Кузнецов Игорь Николаевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АУП"
                 ]
             },
             {
@@ -18493,6 +18916,12 @@
                 "values": [
                     "Мараканов Забир Ямилевич"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ЦСХ"
+                ]
             }
         ],
         "controls": []
@@ -19438,6 +19867,12 @@
                 "values": [
                     "Мукатов Алибек Рауифович"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Технический отдел"
+                ]
             }
         ],
         "controls": []
@@ -19671,6 +20106,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Финансово-сбытовой отдел"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "MustafinaAR@bmrb.ru"
@@ -19752,6 +20193,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "130"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             },
             {
@@ -19929,6 +20376,12 @@
                 "type": "cn",
                 "values": [
                     "Набиуллин Азамат Шамилевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Служба управления проектом Юбилейного месторождения"
                 ]
             },
             {
@@ -20244,6 +20697,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "NasyrovAR@bmrb.ru"
@@ -20361,6 +20820,12 @@
                 "type": "cn",
                 "values": [
                     "Назарова Елена Васильевна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ЦХЛ"
                 ]
             },
             {
@@ -21525,6 +21990,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Отдел бюджетирования"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "PatrakovaSV@bmrb.ru"
@@ -21657,6 +22128,12 @@
                 "type": "cn",
                 "values": [
                     "Петров Максим Николаевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             },
             {
@@ -21801,6 +22278,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "133"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             },
             {
@@ -22227,6 +22710,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "СЮПР"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "PovhAV@bmrb.ru"
@@ -22374,6 +22863,12 @@
                 "type": "cn",
                 "values": [
                     "Пронин Олег Владимирович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бухгалтерия"
                 ]
             },
             {
@@ -22704,6 +23199,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "PudovkinNE@bmrb.ru"
@@ -22854,6 +23355,27 @@
         "messageId": 2,
         "protocolOp": 100,
         "type": "SearchResultEntry",
+        "objectName": "CN=\\d0\\a0\\d0\\b0\\d0\\b4\\d0\\b8\\d0\\be \\d0\\91\\d0\\b0\\d1\\88\\d0\\bc\\d0\\b5\\d0\\b4\\d1\\8c,OU=all,OU=All_Users,DC=bm,DC=local",
+        "attributes": [
+            {
+                "type": "cn",
+                "values": [
+                    "Радио Башмедь"
+                ]
+            },
+            {
+                "type": "mail",
+                "values": [
+                    "Radio@bmrb.ru"
+                ]
+            }
+        ],
+        "controls": []
+    },
+    {
+        "messageId": 2,
+        "protocolOp": 100,
+        "type": "SearchResultEntry",
         "objectName": "CN=RAFAEL,OU=Domain Controllers,DC=bm,DC=local",
         "attributes": [
             {
@@ -22989,6 +23511,12 @@
                 "type": "cn",
                 "values": [
                     "Рахматуллина Зиля Тафтизановна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бюро по расчету с персоналом"
                 ]
             },
             {
@@ -23274,6 +23802,12 @@
                 "type": "cn",
                 "values": [
                     "Рогаченко Дмитрий Александрович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АУП"
                 ]
             },
             {
@@ -23637,6 +24171,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "СТК"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "rudsklad@bmrb.ru"
@@ -23802,6 +24342,12 @@
                 "type": "cn",
                 "values": [
                     "Сабитов Ильсур Ильдарович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Автотранспортный цех"
                 ]
             },
             {
@@ -23994,6 +24540,12 @@
                 "type": "cn",
                 "values": [
                     "Сахно Анна Николаевна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Финансово-сбытовой отдел"
                 ]
             },
             {
@@ -24513,6 +25065,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Автотранспортный цех"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "SergienkoES@bmrb.ru"
@@ -24591,6 +25149,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Геологический отдел"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "ShII@bmrb.ru"
@@ -24624,6 +25188,12 @@
                 "type": "cn",
                 "values": [
                     "Шайдуллина Анна Сергеевна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Склад СИЗ"
                 ]
             },
             {
@@ -24825,6 +25395,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Финансово сбытовой отдел"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "SharipkulovaAM@bmrb.ru"
@@ -24954,6 +25530,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "ShehtmanKB@bmrb.ru"
@@ -25044,6 +25626,12 @@
                 "type": "cn",
                 "values": [
                     "Шитова Оксана Миннигалиевна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бюро по учету производства и материалов"
                 ]
             },
             {
@@ -25284,6 +25872,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "SidorenkovVV@bmrb.ru"
@@ -25392,6 +25986,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "435"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             },
             {
@@ -25983,6 +26583,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "SorokinAD@bmrb.ru"
@@ -26001,6 +26607,12 @@
                 "type": "cn",
                 "values": [
                     "Сорокин Алексей Валерьевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АУП"
                 ]
             },
             {
@@ -26274,6 +26886,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "СЮПР"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "StecuraAM@bmrb.ru"
@@ -26337,6 +26955,12 @@
                 "type": "cn",
                 "values": [
                     "Мастер СТК"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "СТК"
                 ]
             },
             {
@@ -26577,6 +27201,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "390"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             }
         ],
@@ -27030,6 +27660,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Отдел бюджетирования"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "TarasovaLN@bmrb.ru"
@@ -27075,6 +27711,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "541"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             },
             {
@@ -27633,6 +28275,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Юридический"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "TlyashevRA@bmrb.ru"
@@ -27873,6 +28521,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "OP"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "TosakovVE@bmrb.ru"
@@ -28029,6 +28683,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "АУП"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "TualbaevIH@bmrb.ru"
@@ -28089,6 +28749,12 @@
                 "type": "cn",
                 "values": [
                     "Тукаев Рамиль Марсович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "АУП"
                 ]
             },
             {
@@ -28188,6 +28854,12 @@
                 "type": "telephoneNumber",
                 "values": [
                     "130"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             },
             {
@@ -29650,6 +30322,12 @@
                 "values": [
                     "Администратор шлюза Usergate"
                 ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Отдел Информационных Технологий и Связи"
+                ]
             }
         ],
         "controls": []
@@ -29958,6 +30636,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "АХО"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "ValinurovaRR@bmrb.ru"
@@ -29979,6 +30663,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "СТК"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "ValitovaAV@bmrb.ru"
@@ -29997,6 +30687,12 @@
                 "type": "cn",
                 "values": [
                     "Валиуллина Евгения Владимировна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ЦХЛ"
                 ]
             },
             {
@@ -30267,6 +30963,12 @@
                 "type": "cn",
                 "values": [
                     "Куликов Виктор Сергеевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОИТиС"
                 ]
             },
             {
@@ -30720,6 +31422,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "БВР"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "YangazinAH@bmrb.ru"
@@ -30738,6 +31446,12 @@
                 "type": "cn",
                 "values": [
                     "Янзигитов Тагир Вилорович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ЦМС рудник"
                 ]
             },
             {
@@ -30810,6 +31524,12 @@
                 "type": "cn",
                 "values": [
                     "Ярмухаметов Иршат Ирмакович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Служба управления проектом Юбилейного месторождения"
                 ]
             },
             {
@@ -30888,6 +31608,12 @@
                 "type": "cn",
                 "values": [
                     "Юланова Зубаржат Динисламовна"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "Бюро по учету производства и материалов"
                 ]
             },
             {
@@ -30975,6 +31701,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "ОГР"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "YunusovRR@bmrb.ru"
@@ -30993,6 +31725,12 @@
                 "type": "cn",
                 "values": [
                     "Юров Александр Александрович"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "БВР"
                 ]
             },
             {
@@ -31272,6 +32010,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "ПТО"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "ZaitovIN@bmrb.ru"
@@ -31380,6 +32124,12 @@
                 "type": "cn",
                 "values": [
                     "Замула Иван Валерьевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             },
             {
@@ -31707,6 +32457,12 @@
                 ]
             },
             {
+                "type": "department",
+                "values": [
+                    "Бюро по расчету с персоналом"
+                ]
+            },
+            {
                 "type": "mail",
                 "values": [
                     "Zp@bmrb.ru"
@@ -31740,6 +32496,12 @@
                 "type": "cn",
                 "values": [
                     "Зюзин Павел Юрьевич"
+                ]
+            },
+            {
+                "type": "department",
+                "values": [
+                    "ОМТО"
                 ]
             },
             {
