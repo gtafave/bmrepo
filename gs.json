@@ -1,2026 +1,2214 @@
 [
-        {
-          "extension": "101",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Приёмная Сибай",
-          "status": "Idle",
-          "addr": "10.59.22.12:40045"
-        },
-        {
-          "extension": "105",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Тукаев Р.М. Сибай",
-          "status": "Idle",
-          "addr": "10.59.22.21:21313"
-        },
-        {
-          "extension": "112",
-          "account_type": "SIP",
-          "fullname": "Нугманова Г.Ф.",
-          "status": "Idle",
-          "addr": "10.59.22.30:5060"
-        },
-        {
-          "extension": "115",
-          "account_type": "SIP",
-          "fullname": "Каримов Р.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.170:5060"
-        },
-        {
-          "extension": "119",
-          "account_type": "SIP",
-          "fullname": "Каткова С.А.",
-          "status": "Idle",
-          "addr": "10.59.4.57:5060"
-        },
-        {
-          "extension": "121",
-          "account_type": "SIP",
-          "fullname": "Терешкова Д.Д.",
-          "status": "Idle",
-          "addr": "10.59.12.35:5060"
-        },
-        {
-          "extension": "123",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Мамбетова З.Р.",
-          "status": "InUse",
-          "addr": "10.59.12.195:29538"
-        },
-        {
-          "extension": "127",
-          "account_type": "SIP",
-          "fullname": "Ямалетдинов Р.А.",
-          "status": "Idle",
-          "addr": "10.59.12.33:5060"
-        },
-        {
-          "extension": "129",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Зимбурская А.А.",
-          "status": "Idle",
-          "addr": "10.59.12.224:25839"
-        },
-        {
-          "extension": "130",
-          "account_type": "SIP",
-          "fullname": "Туктагулов Р.Г.",
-          "status": "Idle",
-          "addr": "10.59.12.149:5060"
-        },
-        {
-          "extension": "131",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Султанов В.В.",
-          "status": "Idle",
-          "addr": "10.59.12.108:11410"
-        },
-        {
-          "extension": "132",
-          "account_type": "SIP",
-          "fullname": "Логинов А.С.",
-          "status": "Idle",
-          "addr": "10.59.12.32:5060"
-        },
-        {
-          "extension": "134",
-          "account_type": "SIP",
-          "fullname": "Байчурин Ф.Х.",
-          "status": "Idle",
-          "addr": "10.59.12.103:5060"
-        },
-        {
-          "extension": "135",
-          "account_type": "SIP",
-          "fullname": "Кульбаев Т.А.",
-          "status": "Idle",
-          "addr": "10.59.12.190:5060"
-        },
-        {
-          "extension": "136",
-          "account_type": "SIP",
-          "fullname": "Тарасова Л.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.144:5060"
-        },
-        {
-          "extension": "137",
-          "account_type": "SIP",
-          "fullname": "Ахметов И.У.",
-          "status": "Idle",
-          "addr": "10.59.12.40:5060"
-        },
-        {
-          "extension": "140",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Хусаинов А. Д.",
-          "status": "Idle",
-          "addr": "10.59.12.229:25095,10.59.22.26:19262"
-        },
-        {
-          "extension": "144",
-          "account_type": "SIP",
-          "fullname": "Китикова Р.Р.",
-          "status": "Idle",
-          "addr": "10.59.22.15:5060"
-        },
-        {
-          "extension": "147",
-          "account_type": "SIP",
-          "fullname": "Шагеева Р.Р.",
-          "status": "Idle",
-          "addr": "10.59.22.31:5060,10.59.22.32:5060"
-        },
-        {
-          "extension": "150",
-          "account_type": "SIP",
-          "fullname": "Заикина А.А.",
-          "status": "Idle",
-          "addr": "10.59.22.16:5060"
-        },
-        {
-          "extension": "153",
-          "account_type": "SIP",
-          "fullname": "Дистанов А.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.46:5060"
-        },
-        {
-          "extension": "155",
-          "account_type": "SIP",
-          "fullname": "Оглобличев В.А.",
-          "status": "Idle",
-          "addr": "10.59.22.28:5060"
-        },
-        {
-          "extension": "157",
-          "account_type": "SIP",
-          "fullname": "Баранова Р.Ш.",
-          "status": "Idle",
-          "addr": "10.59.12.42:5060,10.59.12.45:5060"
-        },
-        {
-          "extension": "159",
-          "account_type": "SIP",
-          "fullname": "Абдрахманов Р.И.",
-          "status": "Idle",
-          "addr": "10.59.22.29:5060"
-        },
-        {
-          "extension": "163",
-          "account_type": "SIP",
-          "fullname": "Байчурина Л.Ф.",
-          "status": "Idle",
-          "addr": "10.59.22.18:5060"
-        },
-        {
-          "extension": "165",
-          "account_type": "SIP",
-          "fullname": "Байсуваков Г.Т.",
-          "status": "Idle",
-          "addr": "10.59.12.74:5060"
-        },
-        {
-          "extension": "166",
-          "account_type": "SIP",
-          "fullname": "Галина Д.З.",
-          "status": "Idle",
-          "addr": "10.59.12.174:5060"
-        },
-        {
-          "extension": "167",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Фабрицына Р.А.",
-          "status": "Idle",
-          "addr": "10.59.12.217:54862,10.59.22.27:31032"
-        },
-        {
-          "extension": "170",
-          "account_type": "SIP",
-          "fullname": "Аманбаева Р.Р.",
-          "status": "Idle",
-          "addr": "10.59.22.19:5060"
-        },
-        {
-          "extension": "176",
-          "account_type": "SIP",
-          "fullname": "Елкибаева З.А.",
-          "status": "Idle",
-          "addr": "10.59.12.37:5060"
-        },
-        {
-          "extension": "181",
-          "account_type": "SIP",
-          "fullname": "Мустафин И.М.",
-          "status": "Idle",
-          "addr": "10.59.12.70:5060"
-        },
-        {
-          "extension": "185",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Байчурина А.И.",
-          "status": "Idle",
-          "addr": "10.59.12.215:49516"
-        },
-        {
-          "extension": "193",
-          "account_type": "SIP",
-          "fullname": "Ишемгулова Л.И.",
-          "status": "Idle",
-          "addr": "10.59.12.218:5060"
-        },
-        {
-          "extension": "196",
-          "account_type": "SIP",
-          "fullname": "Мустафин Э. М.",
-          "status": "Idle",
-          "addr": "10.59.12.23:5060"
-        },
-        {
-          "extension": "197",
-          "account_type": "SIP",
-          "fullname": "Геолог. вагон",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "198",
-          "account_type": "SIP",
-          "fullname": "Новопетровское ДСК",
-          "status": "Idle",
-          "addr": "10.59.12.116:5060"
-        },
-        {
-          "extension": "200",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Шагимарданов А.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.197:23829"
-        },
-        {
-          "extension": "204",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Рогаченко Д.А.",
-          "status": "Idle",
-          "addr": "10.59.12.196:17463"
-        },
-        {
-          "extension": "205",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Блинков С.С.",
-          "status": "Idle",
-          "addr": "10.59.12.204:53770"
-        },
-        {
-          "extension": "206",
-          "account_type": "SIP",
-          "fullname": "Ишкильдин Т.Ш.",
-          "status": "Idle",
-          "addr": "10.59.22.25:5060"
-        },
-        {
-          "extension": "212",
-          "account_type": "SIP",
-          "fullname": "Столяров Н.Е.",
-          "status": "Idle",
-          "addr": "10.59.12.71:5060"
-        },
-        {
-          "extension": "215",
-          "account_type": "SIP",
-          "fullname": "Петров М.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.72:5060"
-        },
-        {
-          "extension": "217",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Сорокин А.Д.",
-          "status": "Idle",
-          "addr": "10.59.12.100:17281"
-        },
-        {
-          "extension": "220",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Кузнецов И.Н.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "222",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Шехтман К.Б.",
-          "status": "Idle",
-          "addr": "10.59.12.193:49704"
-        },
-        {
-          "extension": "226",
-          "account_type": "SIP",
-          "fullname": "Якшигулов Д.Г.",
-          "status": "Idle",
-          "addr": "10.59.12.47:5060"
-        },
-        {
-          "extension": "227",
-          "account_type": "SIP",
-          "fullname": "Шишкина Е.С.",
-          "status": "Idle",
-          "addr": "10.59.12.61:5060"
-        },
-        {
-          "extension": "228",
-          "account_type": "SIP",
-          "fullname": "Блохин С.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.12:5060"
-        },
-        {
-          "extension": "229",
-          "account_type": "SIP",
-          "fullname": "Фаизова З.М.",
-          "status": "Idle",
-          "addr": "10.59.12.107:5060"
-        },
-        {
-          "extension": "302",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Бодренков А.Е.",
-          "status": "Idle",
-          "addr": "10.59.12.216:5060"
-        },
-        {
-          "extension": "305",
-          "account_type": "SIP",
-          "fullname": "Малаева С.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.66:5060"
-        },
-        {
-          "extension": "306",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Юсупов Р.Ф.",
-          "status": "Idle",
-          "addr": "10.59.12.199:25731"
-        },
-        {
-          "extension": "307",
-          "account_type": "SIP",
-          "fullname": "Антипин В.С.",
-          "status": "Idle",
-          "addr": "10.59.12.205:49401"
-        },
-        {
-          "extension": "308",
-          "account_type": "SIP",
-          "fullname": "Ибрагимов А.Б.",
-          "status": "Idle",
-          "addr": "10.59.12.73:5060"
-        },
-        {
-          "extension": "309",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Зюзин П.Ю.",
-          "status": "Idle",
-          "addr": "10.59.12.228:48324"
-        },
-        {
-          "extension": "314",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Фазлетдинов Ф.Ф.",
-          "status": "Idle",
-          "addr": "10.59.12.194:24666"
-        },
-        {
-          "extension": "315",
-          "account_type": "SIP",
-          "fullname": "Булатова Э.Х.",
-          "status": "Idle",
-          "addr": "10.59.12.119:5060"
-        },
-        {
-          "extension": "318",
-          "account_type": "SIP",
-          "fullname": "Исканьярова А.И.",
-          "status": "Idle",
-          "addr": "10.59.12.48:5060"
-        },
-        {
-          "extension": "319",
-          "account_type": "SIP",
-          "fullname": "Торопчанина Т.А.",
-          "status": "Idle",
-          "addr": "10.59.12.220:56227"
-        },
-        {
-          "extension": "321",
-          "account_type": "SIP",
-          "fullname": "Аминев И.М.",
-          "status": "Idle",
-          "addr": "10.59.12.30:5060"
-        },
-        {
-          "extension": "323",
-          "account_type": "SIP",
-          "fullname": "Сабина Т.А.",
-          "status": "Idle",
-          "addr": "10.59.12.210:5060"
-        },
-        {
-          "extension": "327",
-          "account_type": "SIP",
-          "fullname": "Абдульменова Г.А.",
-          "status": "Idle",
-          "addr": "10.59.12.50:5060"
-        },
-        {
-          "extension": "333",
-          "account_type": "SIP",
-          "fullname": "Сулейманов А. Х.",
-          "status": "Idle",
-          "addr": "10.59.12.141:5060"
-        },
-        {
-          "extension": "349",
-          "account_type": "SIP",
-          "fullname": "Весовая 150т",
-          "status": "Idle",
-          "addr": "10.59.4.132:5060"
-        },
-        {
-          "extension": "356",
-          "account_type": "SIP",
-          "fullname": "Кулябин Н.А.",
-          "status": "Idle",
-          "addr": "10.59.0.37:5060"
-        },
-        {
-          "extension": "358",
-          "account_type": "SIP",
-          "fullname": "Резников А.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.102:5060"
-        },
-        {
-          "extension": "359",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Сорокин А.В.",
-          "status": "Idle",
-          "addr": "10.59.12.192:5060"
-        },
-        {
-          "extension": "360",
-          "account_type": "SIP",
-          "fullname": "Кулумбетова К.И.",
-          "status": "Idle",
-          "addr": "10.59.12.57:5060"
-        },
-        {
-          "extension": "367",
-          "account_type": "SIP",
-          "fullname": "Бурдин В.В.",
-          "status": "Idle",
-          "addr": "10.59.12.109:5060"
-        },
-        {
-          "extension": "373",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Диспетчер ЮПР",
-          "status": "Idle",
-          "addr": "10.59.12.219:15011"
-        },
-        {
-          "extension": "380",
-          "account_type": "SIP",
-          "fullname": "Абдисов А.З.",
-          "status": "Idle",
-          "addr": "10.59.12.120:5060"
-        },
-        {
-          "extension": "381",
-          "account_type": "SIP",
-          "fullname": "Ковязина О.Г.",
-          "status": "Idle",
-          "addr": "10.59.12.31:5060"
-        },
-        {
-          "extension": "382",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Исянбаев Д.А.",
-          "status": "Idle",
-          "addr": "10.59.12.223:34966"
-        },
-        {
-          "extension": "384",
-          "account_type": "SIP",
-          "fullname": "Чистяков Е.Ф.",
-          "status": "Idle",
-          "addr": "10.59.12.69:5060"
-        },
-        {
-          "extension": "386",
-          "account_type": "SIP",
-          "fullname": "Галынин А.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.177:52033"
-        },
-        {
-          "extension": "389",
-          "account_type": "SIP",
-          "fullname": "Саттарова А.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.49:5060"
-        },
-        {
-          "extension": "399",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Тукаев Р.М.",
-          "status": "Idle",
-          "addr": "10.59.12.198:33804"
-        },
-        {
-          "extension": "404",
-          "account_type": "SIP",
-          "fullname": "Центральный диспетчер",
-          "status": "Idle",
-          "addr": "10.59.12.117:5060"
-        },
-        {
-          "extension": "406",
-          "account_type": "SIP",
-          "fullname": "Заитов И.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.168:5060"
-        },
-        {
-          "extension": "408",
-          "account_type": "SIP",
-          "fullname": "Янгазин А.Х.",
-          "status": "Idle",
-          "addr": "10.59.12.59:5060"
-        },
-        {
-          "extension": "409",
-          "account_type": "SIP",
-          "fullname": "Соколов К.М.",
-          "status": "Idle",
-          "addr": "10.59.12.213:47079"
-        },
-        {
-          "extension": "410",
-          "account_type": "SIP",
-          "fullname": "Давлетшин Д.А.",
-          "status": "Idle",
-          "addr": "10.59.12.22:5060"
-        },
-        {
-          "extension": "411",
-          "account_type": "SIP",
-          "fullname": "Потапцева И.Е.",
-          "status": "Idle",
-          "addr": "10.59.12.38:5060"
-        },
-        {
-          "extension": "412",
-          "account_type": "SIP",
-          "fullname": "Гусев А.В.",
-          "status": "Idle",
-          "addr": "10.59.12.99:5060"
-        },
-        {
-          "extension": "424",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Федоренко А.В.",
-          "status": "Idle",
-          "addr": "10.59.12.124:5060"
-        },
-        {
-          "extension": "425",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Гринцов В.В.",
-          "status": "Idle",
-          "addr": "10.59.12.186:15233"
-        },
-        {
-          "extension": "426",
-          "account_type": "SIP",
-          "fullname": "Чекменева Е.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.201:5060"
-        },
-        {
-          "extension": "428",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Стародубцева В.М.",
-          "status": "Idle",
-          "addr": "10.59.12.118:5060"
-        },
-        {
-          "extension": "429",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Еникеев И.И.",
-          "status": "Idle",
-          "addr": "10.59.12.221:55046"
-        },
-        {
-          "extension": "430",
-          "account_type": "SIP",
-          "fullname": "Горбунова Л.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.41:5060"
-        },
-        {
-          "extension": "435",
-          "account_type": "SIP",
-          "fullname": "Сынгизов Р.И.",
-          "status": "Idle",
-          "addr": "10.59.12.25:5060"
-        },
-        {
-          "extension": "436",
-          "account_type": "SIP",
-          "fullname": "Губайдуллин И.Т. ЦХЛ",
-          "status": "Idle",
-          "addr": "10.59.12.36:5060"
-        },
-        {
-          "extension": "438",
-          "account_type": "SIP",
-          "fullname": "Ахмедьянов Ф.Д.",
-          "status": "Idle",
-          "addr": "10.59.12.56:5060"
-        },
-        {
-          "extension": "439",
-          "account_type": "SIP",
-          "fullname": "Якшигулова Л.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.68:5060"
-        },
-        {
-          "extension": "444",
-          "account_type": "SIP",
-          "fullname": "Жуков Е.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.121:5060"
-        },
-        {
-          "extension": "449",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "АЗС",
-          "status": "Idle",
-          "addr": "10.59.12.155:5060"
-        },
-        {
-          "extension": "450",
-          "account_type": "SIP",
-          "fullname": "Начальник АТЦ",
-          "status": "Idle",
-          "addr": "10.59.12.163:5060"
-        },
-        {
-          "extension": "452",
-          "account_type": "SIP",
-          "fullname": "Экспресс лаборатория",
-          "status": "Idle",
-          "addr": "10.59.12.97:5060"
-        },
-        {
-          "extension": "454",
-          "account_type": "SIP",
-          "fullname": "Валеев В.И.",
-          "status": "Idle",
-          "addr": "10.59.12.98:5060"
-        },
-        {
-          "extension": "455",
-          "account_type": "SIP",
-          "fullname": "Билалова Ю.В.",
-          "status": "Idle",
-          "addr": "10.59.12.78:5060"
-        },
-        {
-          "extension": "458",
-          "account_type": "SIP",
-          "fullname": "Платонов Ю.А.",
-          "status": "Idle",
-          "addr": "10.59.12.182:5060"
-        },
-        {
-          "extension": "460",
-          "account_type": "SIP",
-          "fullname": "Диспетчер АТЦ",
-          "status": "Idle",
-          "addr": "10.59.12.95:5060"
-        },
-        {
-          "extension": "464",
-          "account_type": "SIP",
-          "fullname": "Долматова С.В.",
-          "status": "Idle",
-          "addr": "10.59.12.129:5060"
-        },
-        {
-          "extension": "465",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Демченко Д.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.208:5060"
-        },
-        {
-          "extension": "466",
-          "account_type": "SIP",
-          "fullname": "Демидов С.В.",
-          "status": "Idle",
-          "addr": "10.59.12.139:5060"
-        },
-        {
-          "extension": "467",
-          "account_type": "SIP",
-          "fullname": "Александров В.В.",
-          "status": "Idle",
-          "addr": "10.59.0.182:5060"
-        },
-        {
-          "extension": "468",
-          "account_type": "SIP",
-          "fullname": "Антипанов С.С.",
-          "status": "Idle",
-          "addr": "10.59.20.8:5060"
-        },
-        {
-          "extension": "469",
-          "account_type": "SIP",
-          "fullname": "Шнып А.А.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "470",
-          "account_type": "SIP",
-          "fullname": "Поскрёбышева И.В.",
-          "status": "Idle",
-          "addr": "10.59.20.24:5060"
-        },
-        {
-          "extension": "471",
-          "account_type": "SIP",
-          "fullname": "Склад фабрики",
-          "status": "Idle",
-          "addr": "10.59.12.82:5060"
-        },
-        {
-          "extension": "472",
-          "account_type": "SIP",
-          "fullname": "Комлев А.В.",
-          "status": "Idle",
-          "addr": "10.59.12.94:5060"
-        },
-        {
-          "extension": "474",
-          "account_type": "SIP",
-          "fullname": "Весовая ЮПР на портале",
-          "status": "Idle",
-          "addr": "10.59.12.24:5060"
-        },
-        {
-          "extension": "475",
-          "account_type": "SIP",
-          "fullname": "Абдулгужин Х.Г.",
-          "status": "Idle",
-          "addr": "10.59.12.77:5060"
-        },
-        {
-          "extension": "476",
-          "account_type": "SIP",
-          "fullname": "Лапин М.С.",
-          "status": "Idle",
-          "addr": "10.59.12.86:5060"
-        },
-        {
-          "extension": "477",
-          "account_type": "SIP",
-          "fullname": "Лапина О.С.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "478",
-          "account_type": "SIP",
-          "fullname": "Коробко А.В.",
-          "status": "Idle",
-          "addr": "10.59.12.92:5060"
-        },
-        {
-          "extension": "480",
-          "account_type": "SIP",
-          "fullname": "Отдел развития",
-          "status": "Idle",
-          "addr": "10.59.12.90:5060"
-        },
-        {
-          "extension": "481",
-          "account_type": "SIP",
-          "fullname": "Мустафин Р.Ф.",
-          "status": "Idle",
-          "addr": "10.59.12.87:5060"
-        },
-        {
-          "extension": "482",
-          "account_type": "SIP",
-          "fullname": "Хисамутдинов Р.Р.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "485",
-          "account_type": "SIP",
-          "fullname": "Бюро пропусков",
-          "status": "Idle",
-          "addr": "10.59.4.61:5060"
-        },
-        {
-          "extension": "486",
-          "account_type": "SIP",
-          "fullname": "Асанов Д.А.",
-          "status": "Idle",
-          "addr": "10.59.12.93:5060"
-        },
-        {
-          "extension": "489",
-          "account_type": "SIP",
-          "fullname": "Спиридонов Н.В.",
-          "status": "Idle",
-          "addr": "10.59.12.63:5060"
-        },
-        {
-          "extension": "495",
-          "account_type": "SIP",
-          "fullname": "Казакбаев Д.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.39:5060"
-        },
-        {
-          "extension": "496",
-          "account_type": "SIP",
-          "fullname": "Рожков В.А.",
-          "status": "Idle",
-          "addr": "10.59.20.19:5060"
-        },
-        {
-          "extension": "497",
-          "account_type": "SIP",
-          "fullname": "Гайдичар С.А. СУВР 5 уч.",
-          "status": "Idle",
-          "addr": "10.59.12.132:5060"
-        },
-        {
-          "extension": "499",
-          "account_type": "SIP",
-          "fullname": "Казакова М.Ю.",
-          "status": "Idle",
-          "addr": "10.59.20.10:5060"
-        },
-        {
-          "extension": "500",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Бондаренко Д.А.",
-          "status": "Idle",
-          "addr": "10.59.12.189:5060"
-        },
-        {
-          "extension": "501",
-          "account_type": "SIP",
-          "fullname": "Филин А.А.",
-          "status": "Idle",
-          "addr": "10.59.12.60:5060"
-        },
-        {
-          "extension": "502",
-          "account_type": "SIP",
-          "fullname": "Инспектор ПК",
-          "status": "Idle",
-          "addr": "10.59.12.64:5060"
-        },
-        {
-          "extension": "503",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Фоменко Д.В.",
-          "status": "Idle",
-          "addr": "10.59.20.3:50685"
-        },
-        {
-          "extension": "508",
-          "account_type": "SIP",
-          "fullname": "Участок ПХМ",
-          "status": "Idle",
-          "addr": "10.59.12.83:5060"
-        },
-        {
-          "extension": "509",
-          "account_type": "SIP",
-          "fullname": "КПП ПРП",
-          "status": "Idle",
-          "addr": "10.59.0.138:5060"
-        },
-        {
-          "extension": "510",
-          "account_type": "SIP",
-          "fullname": "КПП Восточная",
-          "status": "Idle",
-          "addr": "10.59.12.115:5060"
-        },
-        {
-          "extension": "511",
-          "account_type": "SIP",
-          "fullname": "Аширова Т.В.",
-          "status": "Idle",
-          "addr": "10.59.12.101:5060"
-        },
-        {
-          "extension": "512",
-          "account_type": "SIP",
-          "fullname": "ЗР 7 Участок",
-          "status": "Idle",
-          "addr": "10.59.12.122:5060"
-        },
-        {
-          "extension": "513",
-          "account_type": "SIP",
-          "fullname": "Просвиркин Д.В.",
-          "status": "Idle",
-          "addr": "10.59.20.23:5060"
-        },
-        {
-          "extension": "514",
-          "account_type": "SIP",
-          "fullname": "Черкасова Г.Ю.",
-          "status": "Idle",
-          "addr": "10.59.12.114:5060"
-        },
-        {
-          "extension": "515",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "АТС ИК",
-          "status": "Idle",
-          "addr": "10.59.12.67:5060"
-        },
-        {
-          "extension": "516",
-          "account_type": "SIP",
-          "fullname": "ПУЭиРСО №3",
-          "status": "Idle",
-          "addr": "10.59.12.130:5060"
-        },
-        {
-          "extension": "517",
-          "account_type": "SIP",
-          "fullname": "ДК РГВ №1",
-          "status": "Idle",
-          "addr": "10.59.12.131:5060"
-        },
-        {
-          "extension": "518",
-          "account_type": "SIP",
-          "fullname": "Начальник ПВС",
-          "status": "Idle",
-          "addr": "10.59.12.134:5060"
-        },
-        {
-          "extension": "519",
-          "account_type": "SIP",
-          "fullname": "Байчурина Р.Г.",
-          "status": "Idle",
-          "addr": "10.59.12.55:5060"
-        },
-        {
-          "extension": "521",
-          "account_type": "SIP",
-          "fullname": "Повх А.В.",
-          "status": "Idle",
-          "addr": "10.59.12.43:5060"
-        },
-        {
-          "extension": "522",
-          "account_type": "SIP",
-          "fullname": "Мельник Р.В.",
-          "status": "Idle",
-          "addr": "10.59.12.44:5060"
-        },
-        {
-          "extension": "523",
-          "account_type": "SIP",
-          "fullname": "УГМК-Телеком",
-          "status": "Idle",
-          "addr": "10.59.12.21:5060"
-        },
-        {
-          "extension": "525",
-          "account_type": "SIP",
-          "fullname": "Силин А.В.",
-          "status": "Idle",
-          "addr": "10.59.22.13:5060"
-        },
-        {
-          "extension": "526",
-          "account_type": "SIP",
-          "fullname": "Байгускаров Ф.Г.",
-          "status": "Idle",
-          "addr": "10.59.12.62:5060"
-        },
-        {
-          "extension": "527",
-          "account_type": "SIP",
-          "fullname": "Ильясов А.С.",
-          "status": "Idle",
-          "addr": "10.59.2.52:49392"
-        },
-        {
-          "extension": "528",
-          "account_type": "SIP",
-          "fullname": "Попков А.С.",
-          "status": "Idle",
-          "addr": "10.59.22.22:5060"
-        },
-        {
-          "extension": "529",
-          "account_type": "SIP",
-          "fullname": "Саухин В.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.18:5060"
-        },
-        {
-          "extension": "538",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Торопов К.В.",
-          "status": "Idle",
-          "addr": "10.59.20.2:39161"
-        },
-        {
-          "extension": "539",
-          "account_type": "SIP",
-          "fullname": "Султанов Р.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.16:5060"
-        },
-        {
-          "extension": "540",
-          "account_type": "SIP",
-          "fullname": "Безруков П.А.",
-          "status": "Idle",
-          "addr": "10.59.12.79:5060"
-        },
-        {
-          "extension": "541",
-          "account_type": "SIP",
-          "fullname": "Тарасов С.В.",
-          "status": "Idle",
-          "addr": "10.59.12.135:5060"
-        },
-        {
-          "extension": "542",
-          "account_type": "SIP",
-          "fullname": "Привалов А.С.",
-          "status": "Idle",
-          "addr": "10.59.20.4:5060"
-        },
-        {
-          "extension": "543",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Шевкоплясов С.В.",
-          "status": "Idle",
-          "addr": "10.59.12.140:5060"
-        },
-        {
-          "extension": "546",
-          "account_type": "SIP",
-          "fullname": "Склад СИЗ",
-          "status": "Idle",
-          "addr": "10.59.12.76:5060"
-        },
-        {
-          "extension": "547",
-          "account_type": "SIP",
-          "fullname": "Махмутова Р.М.",
-          "status": "Idle",
-          "addr": "10.59.12.128:5060"
-        },
-        {
-          "extension": "548",
-          "account_type": "SIP",
-          "fullname": "КПП Верхний городок",
-          "status": "Idle",
-          "addr": "10.59.12.80:5060"
-        },
-        {
-          "extension": "550",
-          "account_type": "SIP",
-          "fullname": "Баянов Р.Р.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "551",
-          "account_type": "SIP",
-          "fullname": "Весовая 100 тонн",
-          "status": "Idle",
-          "addr": "10.59.12.127:5060"
-        },
-        {
-          "extension": "552",
-          "account_type": "SIP",
-          "fullname": "Назарова В.В.",
-          "status": "Idle",
-          "addr": "10.59.12.137:5060"
-        },
-        {
-          "extension": "553",
-          "account_type": "SIP",
-          "fullname": "Горлач А.В.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "554",
-          "account_type": "SIP",
-          "fullname": "Ласынова А.Ш.",
-          "status": "InUse",
-          "addr": "10.59.12.142:5060"
-        },
-        {
-          "extension": "555",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Лобанов М.Б.",
-          "status": "Idle",
-          "addr": "10.59.12.89:54351"
-        },
-        {
-          "extension": "556",
-          "account_type": "SIP",
-          "fullname": "ЦХЛ 18к.",
-          "status": "Idle",
-          "addr": "10.59.12.110:5060"
-        },
-        {
-          "extension": "557",
-          "account_type": "SIP",
-          "fullname": "ЦХЛ 19к.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "558",
-          "account_type": "SIP",
-          "fullname": "ЦХЛ 21к.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "559",
-          "account_type": "SIP",
-          "fullname": "КПП Рудничная",
-          "status": "Idle",
-          "addr": "10.59.12.106:5060"
-        },
-        {
-          "extension": "560",
-          "account_type": "SIP",
-          "fullname": "УГМК-Телеком 8-800",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "561",
-          "account_type": "SIP",
-          "fullname": "Булатов Х.Г. нач. ЧОО Батыр",
-          "status": "Idle",
-          "addr": "10.59.12.27:5060"
-        },
-        {
-          "extension": "563",
-          "account_type": "SIP",
-          "fullname": "Павлова М.С.",
-          "status": "Idle",
-          "addr": "10.59.20.16:5060"
-        },
-        {
-          "extension": "564",
-          "account_type": "SIP",
-          "fullname": "Чмутова А.Е.",
-          "status": "Idle",
-          "addr": "10.59.20.12:5060"
-        },
-        {
-          "extension": "565",
-          "account_type": "SIP",
-          "fullname": "Бедыс Ю.П.",
-          "status": "Idle",
-          "addr": "10.59.12.20:5060"
-        },
-        {
-          "extension": "566",
-          "account_type": "SIP",
-          "fullname": "Алексеенко П.Ю.",
-          "status": "Idle",
-          "addr": "10.59.20.6:5060"
-        },
-        {
-          "extension": "567",
-          "account_type": "SIP",
-          "fullname": "Ишмухаметов В.С.",
-          "status": "Idle",
-          "addr": "10.59.20.5:5060"
-        },
-        {
-          "extension": "568",
-          "account_type": "SIP",
-          "fullname": "Головкин П.Д.",
-          "status": "Idle",
-          "addr": "10.59.20.17:5060"
-        },
-        {
-          "extension": "569",
-          "account_type": "SIP",
-          "fullname": "Вьюженко А.А.",
-          "status": "Idle",
-          "addr": "10.59.20.18:5060"
-        },
-        {
-          "extension": "570",
-          "account_type": "SIP",
-          "fullname": "Лебедева В.А.",
-          "status": "Idle",
-          "addr": "10.59.20.7:5060"
-        },
-        {
-          "extension": "580",
-          "account_type": "SIP",
-          "fullname": "Овчинников С.А.",
-          "status": "Idle",
-          "addr": "10.59.20.11:5060"
-        },
-        {
-          "extension": "581",
-          "account_type": "SIP",
-          "fullname": "Вакуленко А.С.",
-          "status": "Idle",
-          "addr": "10.59.20.9:5060"
-        },
-        {
-          "extension": "582",
-          "account_type": "SIP",
-          "fullname": "Вдовина Е.А.",
-          "status": "Idle",
-          "addr": "10.59.20.13:5060"
-        },
-        {
-          "extension": "583",
-          "account_type": "SIP",
-          "fullname": "ПУ ГПР 2 Участок",
-          "status": "Idle",
-          "addr": "10.59.12.123:5060"
-        },
-        {
-          "extension": "584",
-          "account_type": "SIP",
-          "fullname": "Тычаева Л.А.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "585",
-          "account_type": "SIP",
-          "fullname": "Ермолаев М.Я.",
-          "status": "Idle",
-          "addr": "10.59.20.15:5060"
-        },
-        {
-          "extension": "586",
-          "account_type": "SIP",
-          "fullname": "Гурьянова И.П.",
-          "status": "Idle",
-          "addr": "10.59.20.22:5060"
-        },
-        {
-          "extension": "588",
-          "account_type": "SIP",
-          "fullname": "Чебыкин А.А.",
-          "status": "Idle",
-          "addr": "10.59.12.28:5060"
-        },
-        {
-          "extension": "589",
-          "account_type": "SIP",
-          "fullname": "Галлямов И.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.29:5060"
-        },
-        {
-          "extension": "590",
-          "account_type": "SIP",
-          "fullname": "Триволенко Н.К.",
-          "status": "Idle",
-          "addr": "10.59.12.34:5060"
-        },
-        {
-          "extension": "591",
-          "account_type": "SIP",
-          "fullname": "Абдрахимов Т.Х.",
-          "status": "Idle",
-          "addr": "10.59.12.53:5060"
-        },
-        {
-          "extension": "592",
-          "account_type": "SIP",
-          "fullname": "ПС Рудничная",
-          "status": "Idle",
-          "addr": "10.59.12.14:5060"
-        },
-        {
-          "extension": "593",
-          "account_type": "SIP",
-          "fullname": "ПС Юбилейная",
-          "status": "Idle",
-          "addr": "10.59.12.15:5060"
-        },
-        {
-          "extension": "594",
-          "account_type": "SIP",
-          "fullname": "Рудничная",
-          "status": "Idle",
-          "addr": "10.59.12.240:5060"
-        },
-        {
-          "extension": "595",
-          "account_type": "SIP",
-          "fullname": "ПС Рудничная ГГС",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "596",
-          "account_type": "SIP",
-          "fullname": "Ламповая",
-          "status": "Idle",
-          "addr": "10.59.12.207:5060"
-        },
-        {
-          "extension": "597",
-          "account_type": "SIP",
-          "fullname": "ЦХЛ 27к.",
-          "status": "Idle",
-          "addr": "10.59.12.113:5060"
-        },
-        {
-          "extension": "598",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "УЗР 7 Участок",
-          "status": "Idle",
-          "addr": "10.59.12.125:5060"
-        },
-        {
-          "extension": "599",
-          "account_type": "SIP",
-          "fullname": "Мед Пункт Нижний городок",
-          "status": "Idle",
-          "addr": "10.59.12.96:5060"
-        },
-        {
-          "extension": "600",
-          "account_type": "SIP",
-          "fullname": "Сычёва Е.А.",
-          "status": "Idle",
-          "addr": "10.59.12.145:5060"
-        },
-        {
-          "extension": "601",
-          "account_type": "SIP",
-          "fullname": "Шмакова Е.С.",
-          "status": "Idle",
-          "addr": "10.59.12.146:5060"
-        },
-        {
-          "extension": "602",
-          "account_type": "SIP",
-          "fullname": "Хасанов Ф.Д.",
-          "status": "Idle",
-          "addr": "10.59.21.3:5060"
-        },
-        {
-          "extension": "603",
-          "account_type": "SIP",
-          "fullname": "Жуков И.Е.",
-          "status": "Idle",
-          "addr": "10.59.21.2:5060"
-        },
-        {
-          "extension": "604",
-          "account_type": "SIP",
-          "fullname": "Каримов А.С.",
-          "status": "Idle",
-          "addr": "10.59.12.147:5060"
-        },
-        {
-          "extension": "605",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Оператор ГВУ",
-          "status": "Idle",
-          "addr": "10.59.12.148:5060"
-        },
-        {
-          "extension": "606",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Ахметзянов А.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.222:32500"
-        },
-        {
-          "extension": "607",
-          "account_type": "SIP",
-          "fullname": "ГВУ Компрессорная",
-          "status": "Idle",
-          "addr": "10.59.12.150:5060"
-        },
-        {
-          "extension": "608",
-          "account_type": "SIP",
-          "fullname": "РТП ЮВС 6 кВ",
-          "status": "Idle",
-          "addr": "10.59.12.151:5060"
-        },
-        {
-          "extension": "609",
-          "account_type": "SIP",
-          "fullname": "КПП Нижний городок",
-          "status": "Idle",
-          "addr": "10.59.12.154:5060"
-        },
-        {
-          "extension": "610",
-          "account_type": "SIP",
-          "fullname": "Харченко И.В.",
-          "status": "Idle",
-          "addr": "10.59.22.11:5060"
-        },
-        {
-          "extension": "611",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Тест webrtc",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "612",
-          "account_type": "SIP",
-          "fullname": "Отдел геологии",
-          "status": "Idle",
-          "addr": "10.59.12.152:5060,10.59.12.153:5060"
-        },
-        {
-          "extension": "613",
-          "account_type": "SIP",
-          "fullname": "Бакиров В.Л.",
-          "status": "Idle",
-          "addr": "10.59.22.14:5060"
-        },
-        {
-          "extension": "614",
-          "account_type": "SIP",
-          "fullname": "FREE-Даутов А.А.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "615",
-          "account_type": "SIP",
-          "fullname": "Опер ПЗК",
-          "status": "Idle",
-          "addr": "10.59.12.156:5060"
-        },
-        {
-          "extension": "616",
-          "account_type": "SIP",
-          "fullname": "РММ",
-          "status": "Idle",
-          "addr": "10.59.12.158:5060"
-        },
-        {
-          "extension": "617",
-          "account_type": "SIP",
-          "fullname": "Склад РММ",
-          "status": "Idle",
-          "addr": "10.59.12.157:5060"
-        },
-        {
-          "extension": "618",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Мед Пункт Верхний городок",
-          "status": "Idle",
-          "addr": "10.59.12.164:5060"
-        },
-        {
-          "extension": "619",
-          "account_type": "SIP",
-          "fullname": "Гражданкин И.В.",
-          "status": "Idle",
-          "addr": "10.59.22.20:5060"
-        },
-        {
-          "extension": "620",
-          "account_type": "SIP",
-          "fullname": "Юмагулова Л.Р.",
-          "status": "Idle",
-          "addr": "10.59.12.51:5060"
-        },
-        {
-          "extension": "621",
-          "account_type": "SIP",
-          "fullname": "Ламповая СВС",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "622",
-          "account_type": "SIP",
-          "fullname": "Оператор ЗЗС",
-          "status": "Idle",
-          "addr": "10.59.12.161:5060"
-        },
-        {
-          "extension": "623",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Ярмухаметов И.И.",
-          "status": "Idle",
-          "addr": "10.59.12.133:5060"
-        },
-        {
-          "extension": "624",
-          "account_type": "SIP",
-          "fullname": "Ишмухаметова Е.А.",
-          "status": "Idle",
-          "addr": "10.59.3.155:5060"
-        },
-        {
-          "extension": "625",
-          "account_type": "SIP",
-          "fullname": "Куватова Г.И.",
-          "status": "Idle",
-          "addr": "10.59.12.169:5060"
-        },
-        {
-          "extension": "626",
-          "account_type": "SIP",
-          "fullname": "Ахметова В.С.",
-          "status": "Idle",
-          "addr": "10.59.12.211:5060"
-        },
-        {
-          "extension": "627",
-          "account_type": "SIP",
-          "fullname": "Охрана склад ВВ",
-          "status": "Idle",
-          "addr": "10.59.12.171:5060"
-        },
-        {
-          "extension": "628",
-          "account_type": "SIP",
-          "fullname": "Мандрыгин В.А.",
-          "status": "Idle",
-          "addr": "10.59.12.172:5060"
-        },
-        {
-          "extension": "629",
-          "account_type": "SIP",
-          "fullname": "Гайсина Р.И.",
-          "status": "Idle",
-          "addr": "10.59.12.173:5060"
-        },
-        {
-          "extension": "630",
-          "account_type": "SIP",
-          "fullname": "Дежурная Пож. депо",
-          "status": "Idle",
-          "addr": "10.59.12.178:5060"
-        },
-        {
-          "extension": "631",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Юров А.А.",
-          "status": "Idle",
-          "addr": "10.59.12.200:5060"
-        },
-        {
-          "extension": "632",
-          "account_type": "SIP",
-          "fullname": "Дмитриев Н.Н.",
-          "status": "Idle",
-          "addr": "10.59.12.166:5060"
-        },
-        {
-          "extension": "633",
-          "account_type": "SIP",
-          "fullname": "Амиров И.Я.",
-          "status": "Idle",
-          "addr": "10.59.12.180:5060"
-        },
-        {
-          "extension": "634",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Смирнова И.",
-          "status": "Idle",
-          "addr": "10.59.12.184:5060"
-        },
-        {
-          "extension": "635",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "ПЦН",
-          "status": "Idle",
-          "addr": "10.59.12.202:5060"
-        },
-        {
-          "extension": "656",
-          "account_type": "SIP",
-          "fullname": "Руководитель ВГК",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "657",
-          "account_type": "SIP",
-          "fullname": "Байгускаров Р.З.",
-          "status": "Idle",
-          "addr": "10.59.12.181:5060"
-        },
-        {
-          "extension": "658",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Склад ХОФ",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "659",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Малахов Е.Г.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "660",
-          "account_type": "SIP",
-          "fullname": "Данилова А.А.",
-          "status": "Idle",
-          "addr": "10.59.12.203:5060"
-        },
-        {
-          "extension": "661",
-          "account_type": "SIP",
-          "fullname": "Бирюков А.С.",
-          "status": "Idle",
-          "addr": "10.59.12.65:5060"
-        },
-        {
-          "extension": "662",
-          "account_type": "SIP",
-          "fullname": "Диспетчер ЮПР 2 линия",
-          "status": "Idle",
-          "addr": "10.59.12.206:5060"
-        },
-        {
-          "extension": "666",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "РЕЗЕРВ Ямалетдинов Р.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "667",
-          "account_type": "SIP",
-          "fullname": "Юланова З.Д.",
-          "status": "Idle",
-          "addr": "10.59.12.185:5060"
-        },
-        {
-          "extension": "668",
-          "account_type": "SIP",
-          "fullname": "Ильясов С.И.",
-          "status": "Idle",
-          "addr": "10.59.12.13:5060"
-        },
-        {
-          "extension": "669",
-          "account_type": "SIP",
-          "fullname": "Явкин Р.В.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "670",
-          "account_type": "SIP",
-          "fullname": "Гладнев В.В.",
-          "status": "Idle",
-          "addr": "10.59.12.187:5060"
-        },
-        {
-          "extension": "671",
-          "account_type": "SIP",
-          "fullname": "Ivanov",
-          "status": "Idle",
-          "addr": "10.59.4.227:49988"
-        },
-        {
-          "extension": "672",
-          "account_type": "SIP",
-          "fullname": "Гришаева Е.А.",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "673",
-          "account_type": "SIP",
-          "fullname": "Хабиров А.Х.",
-          "status": "Idle",
-          "addr": "10.59.22.24:5060"
-        },
-        {
-          "extension": "674",
-          "account_type": "SIP",
-          "fullname": "Зверева К.Р.",
-          "status": "Idle",
-          "addr": "10.59.22.23:5060"
-        },
-        {
-          "extension": "675",
-          "account_type": "SIP",
-          "fullname": "Сухарева Р.И.",
-          "status": "Idle",
-          "addr": "10.59.22.17:5060"
-        },
-        {
-          "extension": "680",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "Шитов С.И.",
-          "status": "Idle",
-          "addr": "10.59.12.212:48857"
-        },
-        {
-          "extension": "681",
-          "account_type": "SIP",
-          "fullname": "Карабаева С.А.",
-          "status": "Idle",
-          "addr": "10.59.12.179:5060"
-        },
-        {
-          "extension": "682",
-          "account_type": "SIP",
-          "fullname": "Баталов В.М.",
-          "status": "Idle",
-          "addr": "10.59.12.225:5060"
-        },
-        {
-          "extension": "683",
-          "account_type": "SIP",
-          "fullname": "Никитина Е.В.",
-          "status": "Idle",
-          "addr": "10.59.12.226:5060"
-        },
-        {
-          "extension": "684",
-          "account_type": "SIP",
-          "fullname": "Кладовщик ВВ",
-          "status": "Idle",
-          "addr": "10.59.12.227:5060"
-        },
-        {
-          "extension": "777",
-          "account_type": "SIP(WebRTC)",
-          "fullname": "БМ ТЕЛЕКОМ",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "5700",
-          "account_type": "SIP",
-          "fullname": "1110",
-          "status": "Unavailable",
-          "addr": "-"
-        },
-        {
-          "extension": "5701",
-          "account_type": "SIP",
-          "fullname": "Портал",
-          "status": "Idle",
-          "addr": "10.59.4.227:43303"
-        },
-        {
-          "extension": "5702",
-          "account_type": "SIP",
-          "fullname": "610 гор склад ВМ ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:33866"
-        },
-        {
-          "extension": "5703",
-          "account_type": "SIP",
-          "fullname": "290 гор ремпункт уч№6",
-          "status": "Idle",
-          "addr": "10.59.4.227:19630"
-        },
-        {
-          "extension": "5704",
-          "account_type": "SIP",
-          "fullname": "495 гор КССТ ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:11277"
-        },
-        {
-          "extension": "5705",
-          "account_type": "SIP",
-          "fullname": "330 гор заклад.пост",
-          "status": "Idle",
-          "addr": "10.59.4.227:15338"
-        },
-        {
-          "extension": "5706",
-          "account_type": "SIP",
-          "fullname": "330 гор взрывники",
-          "status": "InUse",
-          "addr": "10.59.4.227:40909"
-        },
-        {
-          "extension": "5707",
-          "account_type": "SIP",
-          "fullname": "355 гор ремпункт уч№3",
-          "status": "InUse",
-          "addr": "10.59.4.227:47420"
-        },
-        {
-          "extension": "5708",
-          "account_type": "SIP",
-          "fullname": "570 гор слесарка уч№11 ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:29702"
-        },
-        {
-          "extension": "5709",
-          "account_type": "SIP",
-          "fullname": "1119",
-          "status": "Idle",
-          "addr": "10.59.4.227:43601"
-        },
-        {
-          "extension": "5710",
-          "account_type": "SIP",
-          "fullname": "355 гор ЮВС насосная станция",
-          "status": "Idle",
-          "addr": "10.59.4.227:32042"
-        },
-        {
-          "extension": "5711",
-          "account_type": "SIP",
-          "fullname": "650 гор слесарка уч№16 ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:43012"
-        },
-        {
-          "extension": "5712",
-          "account_type": "SIP",
-          "fullname": "385 гор закладочный пост",
-          "status": "Idle",
-          "addr": "10.59.4.227:10524"
-        },
-        {
-          "extension": "5713",
-          "account_type": "SIP",
-          "fullname": "396-360 гор наклон. съезд",
-          "status": "Idle",
-          "addr": "10.59.4.227:17487"
-        },
-        {
-          "extension": "5714",
-          "account_type": "SIP",
-          "fullname": "355 гор КРБО",
-          "status": "Idle",
-          "addr": "10.59.4.227:36254"
-        },
-        {
-          "extension": "5715",
-          "account_type": "SIP",
-          "fullname": "475 гор слесарка уч№1",
-          "status": "InUse",
-          "addr": "10.59.4.227:36278"
-        },
-        {
-          "extension": "5716",
-          "account_type": "SIP",
-          "fullname": "455 гор насосная станция",
-          "status": "Idle",
-          "addr": "10.59.4.227:36240"
-        },
-        {
-          "extension": "5717",
-          "account_type": "SIP",
-          "fullname": "290 гор закладочный пост",
-          "status": "Idle",
-          "addr": "10.59.4.227:33956"
-        },
-        {
-          "extension": "5718",
-          "account_type": "SIP",
-          "fullname": "1128",
-          "status": "Idle",
-          "addr": "10.59.4.227:10934"
-        },
-        {
-          "extension": "5719",
-          "account_type": "SIP",
-          "fullname": "330 гор ВХВ",
-          "status": "Idle",
-          "addr": "10.59.4.227:12891"
-        },
-        {
-          "extension": "5720",
-          "account_type": "SIP",
-          "fullname": "575 гор насосная станция",
-          "status": "Idle",
-          "addr": "10.59.4.227:21115"
-        },
-        {
-          "extension": "5721",
-          "account_type": "SIP",
-          "fullname": "415 гор слесарка уч№7",
-          "status": "InUse",
-          "addr": "10.59.4.227:10833"
-        },
-        {
-          "extension": "5722",
-          "account_type": "SIP",
-          "fullname": "Уч№6 Вагончик",
-          "status": "Idle",
-          "addr": "10.59.4.227:11874"
-        },
-        {
-          "extension": "5723",
-          "account_type": "SIP",
-          "fullname": "290 гор Водозбор тех.воды",
-          "status": "Idle",
-          "addr": "10.59.4.227:10918"
-        },
-        {
-          "extension": "5724",
-          "account_type": "SIP",
-          "fullname": "335 гор Деж.телефон",
-          "status": "Idle",
-          "addr": "10.59.4.227:45720"
-        },
-        {
-          "extension": "5725",
-          "account_type": "SIP",
-          "fullname": "КПВ передвижной",
-          "status": "Idle",
-          "addr": "10.59.4.227:21814"
-        },
-        {
-          "extension": "5726",
-          "account_type": "SIP",
-          "fullname": "495 гор РУПП",
-          "status": "Idle",
-          "addr": "10.59.4.227:25928"
-        },
-        {
-          "extension": "5727",
-          "account_type": "SIP",
-          "fullname": "495 гор ЮВС уч№19 ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:17441"
-        },
-        {
-          "extension": "5728",
-          "account_type": "SIP",
-          "fullname": "610 гор уч№16 ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:47241"
-        },
-        {
-          "extension": "5729",
-          "account_type": "SIP",
-          "fullname": "ВНС уч№11 ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:42590"
-        },
-        {
-          "extension": "5730",
-          "account_type": "SIP",
-          "fullname": "495 гор слесарка уч№19 ШСУ",
-          "status": "Idle",
-          "addr": "10.59.4.227:17565"
-        },
-        {
-          "extension": "5731",
-          "account_type": "SIP",
-          "fullname": "415 гор слесарка уч№2",
-          "status": "Idle",
-          "addr": "10.59.4.227:43781"
-        }
-   ]
-      
+      {
+        "extension": "101",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Приёмная Сибай",
+        "status": "Idle",
+        "addr": "10.59.22.12:37532"
+      },
+      {
+        "extension": "105",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Тукаев Р.М. Сибай",
+        "status": "Idle",
+        "addr": "10.59.22.21:59255"
+      },
+      {
+        "extension": "112",
+        "account_type": "SIP",
+        "fullname": "Нугманова Г.Ф.",
+        "status": "Idle",
+        "addr": "10.59.22.30:5060"
+      },
+      {
+        "extension": "115",
+        "account_type": "SIP",
+        "fullname": "Каримов Р.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.170:5060"
+      },
+      {
+        "extension": "119",
+        "account_type": "SIP",
+        "fullname": "Каткова С.А.",
+        "status": "Idle",
+        "addr": "10.59.12.239:5060"
+      },
+      {
+        "extension": "121",
+        "account_type": "SIP",
+        "fullname": "Терешкова Д.Д.",
+        "status": "Idle",
+        "addr": "10.59.12.35:5060"
+      },
+      {
+        "extension": "123",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Мамбетова З.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.195:59500"
+      },
+      {
+        "extension": "127",
+        "account_type": "SIP",
+        "fullname": "Ямалетдинов Р.А.",
+        "status": "Idle",
+        "addr": "10.59.12.33:5060"
+      },
+      {
+        "extension": "129",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Зимбурская А.А.",
+        "status": "Idle",
+        "addr": "10.59.12.224:23711"
+      },
+      {
+        "extension": "131",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Султанов В.В.",
+        "status": "Idle",
+        "addr": "10.59.12.108:40143"
+      },
+      {
+        "extension": "132",
+        "account_type": "SIP",
+        "fullname": "Логинов А.С.",
+        "status": "Idle",
+        "addr": "10.59.12.32:5060"
+      },
+      {
+        "extension": "134",
+        "account_type": "SIP",
+        "fullname": "Байчурин Ф.Х.",
+        "status": "Idle",
+        "addr": "10.59.12.103:5060"
+      },
+      {
+        "extension": "135",
+        "account_type": "SIP",
+        "fullname": "Кульбаев Т.А.",
+        "status": "Idle",
+        "addr": "10.59.12.190:5060"
+      },
+      {
+        "extension": "136",
+        "account_type": "SIP",
+        "fullname": "Тарасова Л.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.144:5060"
+      },
+      {
+        "extension": "137",
+        "account_type": "SIP",
+        "fullname": "Ахметов И.У.",
+        "status": "Idle",
+        "addr": "10.59.12.40:5060"
+      },
+      {
+        "extension": "138",
+        "account_type": "SIP",
+        "fullname": "Кильдиярова А.Э.",
+        "status": "Idle",
+        "addr": "10.59.22.34:5060"
+      },
+      {
+        "extension": "139",
+        "account_type": "SIP",
+        "fullname": "Патракова С.В.",
+        "status": "Idle",
+        "addr": "10.59.22.33:5060"
+      },
+      {
+        "extension": "140",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Хусаинов А. Д.",
+        "status": "Idle",
+        "addr": "10.59.12.229:20310,10.59.22.26:19262"
+      },
+      {
+        "extension": "144",
+        "account_type": "SIP",
+        "fullname": "Китикова Р.Р.",
+        "status": "Idle",
+        "addr": "10.59.22.15:5060"
+      },
+      {
+        "extension": "146",
+        "account_type": "SIP",
+        "fullname": "Ахметова Л.Р.",
+        "status": "Idle",
+        "addr": "10.59.22.38:5060"
+      },
+      {
+        "extension": "147",
+        "account_type": "SIP",
+        "fullname": "Шагеева Р.Р.",
+        "status": "Idle",
+        "addr": "10.59.22.31:5060,10.59.22.32:5060"
+      },
+      {
+        "extension": "150",
+        "account_type": "SIP",
+        "fullname": "Заикина А.А.",
+        "status": "Idle",
+        "addr": "10.59.22.16:5060"
+      },
+      {
+        "extension": "153",
+        "account_type": "SIP",
+        "fullname": "Дистанов А.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.46:5060"
+      },
+      {
+        "extension": "155",
+        "account_type": "SIP",
+        "fullname": "Оглобличев В.А.",
+        "status": "Idle",
+        "addr": "10.59.22.28:5060"
+      },
+      {
+        "extension": "157",
+        "account_type": "SIP",
+        "fullname": "Баранова Р.Ш.",
+        "status": "Idle",
+        "addr": "10.59.12.42:5060,10.59.12.45:5060"
+      },
+      {
+        "extension": "159",
+        "account_type": "SIP",
+        "fullname": "Абдрахманов Р.И.",
+        "status": "Idle",
+        "addr": "10.59.22.29:5060"
+      },
+      {
+        "extension": "163",
+        "account_type": "SIP",
+        "fullname": "Байчурина Л.Ф.",
+        "status": "Idle",
+        "addr": "10.59.22.18:5060"
+      },
+      {
+        "extension": "165",
+        "account_type": "SIP",
+        "fullname": "Байсуваков Г.Т.",
+        "status": "Idle",
+        "addr": "10.59.12.74:5060"
+      },
+      {
+        "extension": "166",
+        "account_type": "SIP",
+        "fullname": "Галина Д.З.",
+        "status": "Idle",
+        "addr": "10.59.12.174:5060"
+      },
+      {
+        "extension": "167",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Фабрицына Р.А.",
+        "status": "Idle",
+        "addr": "10.59.12.217:46589,10.59.22.27:24022"
+      },
+      {
+        "extension": "170",
+        "account_type": "SIP",
+        "fullname": "Аманбаева Р.Р.",
+        "status": "Idle",
+        "addr": "10.59.22.19:5060"
+      },
+      {
+        "extension": "172",
+        "account_type": "SIP",
+        "fullname": "Ильясов Т.И.",
+        "status": "Idle",
+        "addr": "10.59.22.39:5060"
+      },
+      {
+        "extension": "176",
+        "account_type": "SIP",
+        "fullname": "Елкибаева З.А.",
+        "status": "Idle",
+        "addr": "10.59.12.37:5060"
+      },
+      {
+        "extension": "181",
+        "account_type": "SIP",
+        "fullname": "Мустафин И.М.",
+        "status": "Idle",
+        "addr": "10.59.12.70:5060"
+      },
+      {
+        "extension": "185",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Байчурина А.И.",
+        "status": "InUse",
+        "addr": "10.59.12.215:44616"
+      },
+      {
+        "extension": "186",
+        "account_type": "SIP",
+        "fullname": "Аминов Р.М.",
+        "status": "Idle",
+        "addr": "10.59.0.37:5060"
+      },
+      {
+        "extension": "191",
+        "account_type": "SIP",
+        "fullname": "Хайруллина Д.Д.",
+        "status": "Idle",
+        "addr": "10.59.22.37:5060"
+      },
+      {
+        "extension": "193",
+        "account_type": "SIP",
+        "fullname": "Ишемгулова Л.И.",
+        "status": "Idle",
+        "addr": "10.59.12.218:5060"
+      },
+      {
+        "extension": "196",
+        "account_type": "SIP",
+        "fullname": "Мустафин Э. М.",
+        "status": "Idle",
+        "addr": "10.59.12.23:5060"
+      },
+      {
+        "extension": "197",
+        "account_type": "SIP",
+        "fullname": "Геолог. вагон",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "198",
+        "account_type": "SIP",
+        "fullname": "Новопетровское ДСК",
+        "status": "Idle",
+        "addr": "10.59.12.116:5060"
+      },
+      {
+        "extension": "200",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Шагимарданов А.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.197:32433"
+      },
+      {
+        "extension": "204",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Рогаченко Д.А.",
+        "status": "Idle",
+        "addr": "10.59.12.196:19953"
+      },
+      {
+        "extension": "205",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Блинков С.С.",
+        "status": "Idle",
+        "addr": "10.59.12.204:14181"
+      },
+      {
+        "extension": "206",
+        "account_type": "SIP",
+        "fullname": "Ишкильдин Т.Ш.",
+        "status": "Idle",
+        "addr": "10.59.22.25:5060"
+      },
+      {
+        "extension": "212",
+        "account_type": "SIP",
+        "fullname": "Столяров Н.Е.",
+        "status": "Idle",
+        "addr": "10.59.12.71:5060"
+      },
+      {
+        "extension": "215",
+        "account_type": "SIP",
+        "fullname": "Петров М.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.72:5060"
+      },
+      {
+        "extension": "217",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Сорокин А.Д.",
+        "status": "Idle",
+        "addr": "10.59.12.100:52173"
+      },
+      {
+        "extension": "220",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Кузнецов И.Н.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "222",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Шехтман К.Б.",
+        "status": "Idle",
+        "addr": "10.59.12.193:50198"
+      },
+      {
+        "extension": "226",
+        "account_type": "SIP",
+        "fullname": "Якшигулов Д.Г.",
+        "status": "Idle",
+        "addr": "10.59.12.47:5060"
+      },
+      {
+        "extension": "227",
+        "account_type": "SIP",
+        "fullname": "Шишкина Е.С.",
+        "status": "Idle",
+        "addr": "10.59.12.61:5060"
+      },
+      {
+        "extension": "228",
+        "account_type": "SIP",
+        "fullname": "Блохин С.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.12:5060"
+      },
+      {
+        "extension": "229",
+        "account_type": "SIP",
+        "fullname": "Фаизова З.М.",
+        "status": "Idle",
+        "addr": "10.59.12.107:5060"
+      },
+      {
+        "extension": "301",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Туленков А.Ф.",
+        "status": "Idle",
+        "addr": "10.59.12.233:5060"
+      },
+      {
+        "extension": "302",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Бодренков А.Е.",
+        "status": "Idle",
+        "addr": "10.59.12.216:5060"
+      },
+      {
+        "extension": "305",
+        "account_type": "SIP",
+        "fullname": "Малаева С.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.66:5060"
+      },
+      {
+        "extension": "306",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Юсупов Р.Ф.",
+        "status": "Idle",
+        "addr": "10.59.12.199:18861"
+      },
+      {
+        "extension": "307",
+        "account_type": "SIP",
+        "fullname": "Антипин В.С.",
+        "status": "Idle",
+        "addr": "10.59.12.205:29581"
+      },
+      {
+        "extension": "308",
+        "account_type": "SIP",
+        "fullname": "Ибрагимов А.Б.",
+        "status": "Idle",
+        "addr": "10.59.12.73:5060"
+      },
+      {
+        "extension": "309",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Зюзин П.Ю.",
+        "status": "Idle",
+        "addr": "10.59.12.228:12744"
+      },
+      {
+        "extension": "311",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Приёмная",
+        "status": "Idle",
+        "addr": "10.59.12.192:5060"
+      },
+      {
+        "extension": "314",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Фазлетдинов Ф.Ф.",
+        "status": "Idle",
+        "addr": "10.59.12.194:46017"
+      },
+      {
+        "extension": "315",
+        "account_type": "SIP",
+        "fullname": "Булатова Э.Х.",
+        "status": "Idle",
+        "addr": "10.59.12.119:5060"
+      },
+      {
+        "extension": "318",
+        "account_type": "SIP",
+        "fullname": "Исканьярова А.И.",
+        "status": "Idle",
+        "addr": "10.59.12.48:5060"
+      },
+      {
+        "extension": "319",
+        "account_type": "SIP",
+        "fullname": "Торопчанина Т.А.",
+        "status": "Idle",
+        "addr": "10.59.12.220:19465"
+      },
+      {
+        "extension": "321",
+        "account_type": "SIP",
+        "fullname": "Аминев И.М.",
+        "status": "InUse",
+        "addr": "10.59.12.30:5060"
+      },
+      {
+        "extension": "323",
+        "account_type": "SIP",
+        "fullname": "Сабина Т.А.",
+        "status": "Idle",
+        "addr": "10.59.12.210:5060"
+      },
+      {
+        "extension": "327",
+        "account_type": "SIP",
+        "fullname": "Абдульменова Г.А.",
+        "status": "Idle",
+        "addr": "10.59.12.50:5060"
+      },
+      {
+        "extension": "333",
+        "account_type": "SIP",
+        "fullname": "Сулейманов А. Х.",
+        "status": "Idle",
+        "addr": "10.59.12.141:5060"
+      },
+      {
+        "extension": "349",
+        "account_type": "SIP",
+        "fullname": "Весовая 150т",
+        "status": "Idle",
+        "addr": "10.59.4.132:5060"
+      },
+      {
+        "extension": "350",
+        "account_type": "SIP",
+        "fullname": "Насосная хвостохранилища",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "356",
+        "account_type": "SIP",
+        "fullname": "Кулябин Н.А.",
+        "status": "Idle",
+        "addr": "10.59.0.56:5060"
+      },
+      {
+        "extension": "358",
+        "account_type": "SIP",
+        "fullname": "Резников А.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.102:5060"
+      },
+      {
+        "extension": "359",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Сорокин А.В.",
+        "status": "Idle",
+        "addr": "10.59.12.230:14117"
+      },
+      {
+        "extension": "360",
+        "account_type": "SIP",
+        "fullname": "Кулумбетова К.И.",
+        "status": "Idle",
+        "addr": "10.59.12.57:5060"
+      },
+      {
+        "extension": "367",
+        "account_type": "SIP",
+        "fullname": "Бурдин В.В.",
+        "status": "Idle",
+        "addr": "10.59.12.109:5060"
+      },
+      {
+        "extension": "373",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Диспетчер ЮПР",
+        "status": "InUse",
+        "addr": "10.59.12.219:15011"
+      },
+      {
+        "extension": "380",
+        "account_type": "SIP",
+        "fullname": "Абдисов А.З.",
+        "status": "Idle",
+        "addr": "10.59.12.120:5060"
+      },
+      {
+        "extension": "381",
+        "account_type": "SIP",
+        "fullname": "Ковязина О.Г.",
+        "status": "Idle",
+        "addr": "10.59.12.31:5060"
+      },
+      {
+        "extension": "382",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Исянбаев Д.А.",
+        "status": "Idle",
+        "addr": "10.59.12.223:20019"
+      },
+      {
+        "extension": "384",
+        "account_type": "SIP",
+        "fullname": "Чистяков Е.Ф.",
+        "status": "Idle",
+        "addr": "10.59.12.69:5060"
+      },
+      {
+        "extension": "386",
+        "account_type": "SIP",
+        "fullname": "Галынин А.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.177:22355"
+      },
+      {
+        "extension": "389",
+        "account_type": "SIP",
+        "fullname": "Саттарова А.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.49:5060"
+      },
+      {
+        "extension": "399",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Тукаев Р.М.",
+        "status": "Idle",
+        "addr": "10.59.12.198:20889"
+      },
+      {
+        "extension": "404",
+        "account_type": "SIP",
+        "fullname": "Центральный диспетчер",
+        "status": "Idle",
+        "addr": "10.59.12.117:5060"
+      },
+      {
+        "extension": "406",
+        "account_type": "SIP",
+        "fullname": "Заитов И.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.168:5060"
+      },
+      {
+        "extension": "408",
+        "account_type": "SIP",
+        "fullname": "Янгазин А.Х.",
+        "status": "Idle",
+        "addr": "10.59.12.59:5060"
+      },
+      {
+        "extension": "409",
+        "account_type": "SIP",
+        "fullname": "Соколов К.М.",
+        "status": "Idle",
+        "addr": "10.59.12.213:54024"
+      },
+      {
+        "extension": "410",
+        "account_type": "SIP",
+        "fullname": "Давлетшин Д.А.",
+        "status": "Idle",
+        "addr": "10.59.12.22:5060"
+      },
+      {
+        "extension": "411",
+        "account_type": "SIP",
+        "fullname": "Потапцева И.Е.",
+        "status": "Idle",
+        "addr": "10.59.12.38:5060"
+      },
+      {
+        "extension": "412",
+        "account_type": "SIP",
+        "fullname": "Гусев А.В.",
+        "status": "Idle",
+        "addr": "10.59.12.99:5060"
+      },
+      {
+        "extension": "424",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Федоренко А.В.",
+        "status": "Idle",
+        "addr": "10.59.12.124:5060"
+      },
+      {
+        "extension": "425",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Гринцов В.В.",
+        "status": "Idle",
+        "addr": "10.59.12.186:18785"
+      },
+      {
+        "extension": "426",
+        "account_type": "SIP",
+        "fullname": "Чекменева Е.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.201:5060"
+      },
+      {
+        "extension": "428",
+        "account_type": "SIP",
+        "fullname": "Стародубцева В.М.",
+        "status": "Idle",
+        "addr": "10.59.12.118:5060"
+      },
+      {
+        "extension": "429",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Еникеев И.И.",
+        "status": "Idle",
+        "addr": "10.59.12.221:14083"
+      },
+      {
+        "extension": "430",
+        "account_type": "SIP",
+        "fullname": "Горбунова Л.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.41:5060"
+      },
+      {
+        "extension": "435",
+        "account_type": "SIP",
+        "fullname": "Сынгизов Р.И.",
+        "status": "Idle",
+        "addr": "10.59.12.25:5060"
+      },
+      {
+        "extension": "436",
+        "account_type": "SIP",
+        "fullname": "Губайдуллин И.Т. ЦХЛ",
+        "status": "Idle",
+        "addr": "10.59.12.36:5060"
+      },
+      {
+        "extension": "438",
+        "account_type": "SIP",
+        "fullname": "Ахмедьянов Ф.Д.",
+        "status": "Idle",
+        "addr": "10.59.12.56:5060"
+      },
+      {
+        "extension": "439",
+        "account_type": "SIP",
+        "fullname": "Якшигулова Л.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.68:5060"
+      },
+      {
+        "extension": "444",
+        "account_type": "SIP",
+        "fullname": "Жуков Е.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.121:5060"
+      },
+      {
+        "extension": "449",
+        "account_type": "SIP",
+        "fullname": "АЗС",
+        "status": "Idle",
+        "addr": "10.59.12.155:5060"
+      },
+      {
+        "extension": "450",
+        "account_type": "SIP",
+        "fullname": "Начальник АТЦ",
+        "status": "Idle",
+        "addr": "10.59.12.163:5060"
+      },
+      {
+        "extension": "452",
+        "account_type": "SIP",
+        "fullname": "Экспресс лаборатория",
+        "status": "Idle",
+        "addr": "10.59.12.97:5060"
+      },
+      {
+        "extension": "454",
+        "account_type": "SIP",
+        "fullname": "Валеев В.И.",
+        "status": "Idle",
+        "addr": "10.59.12.98:5060"
+      },
+      {
+        "extension": "455",
+        "account_type": "SIP",
+        "fullname": "Билалова Ю.В.",
+        "status": "Idle",
+        "addr": "10.59.12.78:5060"
+      },
+      {
+        "extension": "458",
+        "account_type": "SIP",
+        "fullname": "Платонов Ю.А.",
+        "status": "Idle",
+        "addr": "10.59.12.182:5060"
+      },
+      {
+        "extension": "460",
+        "account_type": "SIP",
+        "fullname": "Диспетчер АТЦ",
+        "status": "Idle",
+        "addr": "10.59.12.95:5060"
+      },
+      {
+        "extension": "464",
+        "account_type": "SIP",
+        "fullname": "Долматова С.В.",
+        "status": "Idle",
+        "addr": "10.59.12.129:5060"
+      },
+      {
+        "extension": "465",
+        "account_type": "SIP",
+        "fullname": "Демченко Д.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.208:5060"
+      },
+      {
+        "extension": "466",
+        "account_type": "SIP",
+        "fullname": "Демидов С.В.",
+        "status": "Idle",
+        "addr": "10.59.12.139:5060"
+      },
+      {
+        "extension": "467",
+        "account_type": "SIP",
+        "fullname": "Александров В.В.",
+        "status": "Idle",
+        "addr": "10.59.0.182:5060"
+      },
+      {
+        "extension": "468",
+        "account_type": "SIP",
+        "fullname": "Антипанов С.С.",
+        "status": "Idle",
+        "addr": "10.59.20.8:5060"
+      },
+      {
+        "extension": "469",
+        "account_type": "SIP",
+        "fullname": "Шнып А.А.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "470",
+        "account_type": "SIP",
+        "fullname": "Поскрёбышева И.В.",
+        "status": "Idle",
+        "addr": "10.59.20.24:5060"
+      },
+      {
+        "extension": "471",
+        "account_type": "SIP",
+        "fullname": "Склад фабрики",
+        "status": "Idle",
+        "addr": "10.59.12.82:5060"
+      },
+      {
+        "extension": "472",
+        "account_type": "SIP",
+        "fullname": "Комлев А.В.",
+        "status": "Idle",
+        "addr": "10.59.12.94:5060"
+      },
+      {
+        "extension": "474",
+        "account_type": "SIP",
+        "fullname": "Весовая ЮПР на портале",
+        "status": "Idle",
+        "addr": "10.59.12.24:5060"
+      },
+      {
+        "extension": "475",
+        "account_type": "SIP",
+        "fullname": "Абдулгужин Х.Г.",
+        "status": "Idle",
+        "addr": "10.59.12.77:5060"
+      },
+      {
+        "extension": "476",
+        "account_type": "SIP",
+        "fullname": "Лапин М.С.",
+        "status": "Idle",
+        "addr": "10.59.12.86:5060"
+      },
+      {
+        "extension": "477",
+        "account_type": "SIP",
+        "fullname": "Лапина О.С.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "478",
+        "account_type": "SIP",
+        "fullname": "Коробко А.В.",
+        "status": "Idle",
+        "addr": "10.59.12.92:5060"
+      },
+      {
+        "extension": "480",
+        "account_type": "SIP",
+        "fullname": "Отдел развития",
+        "status": "Idle",
+        "addr": "10.59.12.90:5060"
+      },
+      {
+        "extension": "481",
+        "account_type": "SIP",
+        "fullname": "Мустафин Р.Ф.",
+        "status": "Idle",
+        "addr": "10.59.12.87:5060"
+      },
+      {
+        "extension": "482",
+        "account_type": "SIP",
+        "fullname": "Хисамутдинов Р.Р.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "485",
+        "account_type": "SIP",
+        "fullname": "Бюро пропусков",
+        "status": "Idle",
+        "addr": "10.59.4.61:5060"
+      },
+      {
+        "extension": "486",
+        "account_type": "SIP",
+        "fullname": "Асанов Д.А.",
+        "status": "Idle",
+        "addr": "10.59.12.93:5060"
+      },
+      {
+        "extension": "489",
+        "account_type": "SIP",
+        "fullname": "Спиридонов Н.В.",
+        "status": "Idle",
+        "addr": "10.59.12.63:5060"
+      },
+      {
+        "extension": "495",
+        "account_type": "SIP",
+        "fullname": "Казакбаев Д.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.39:5060"
+      },
+      {
+        "extension": "496",
+        "account_type": "SIP",
+        "fullname": "Рожков В.А.",
+        "status": "Idle",
+        "addr": "10.59.20.19:5060"
+      },
+      {
+        "extension": "497",
+        "account_type": "SIP",
+        "fullname": "Гайдичар С.А. СУВР 5 уч.",
+        "status": "Idle",
+        "addr": "10.59.12.132:5060"
+      },
+      {
+        "extension": "499",
+        "account_type": "SIP",
+        "fullname": "Казакова М.Ю.",
+        "status": "Idle",
+        "addr": "10.59.20.27:5060"
+      },
+      {
+        "extension": "594",
+        "account_type": "SIP",
+        "fullname": "Рудничная",
+        "status": "Idle",
+        "addr": "10.59.12.240:5060"
+      },
+      {
+        "extension": "600",
+        "account_type": "SIP",
+        "fullname": "Сычёва Е.А.",
+        "status": "Idle",
+        "addr": "10.59.12.145:5060"
+      },
+      {
+        "extension": "601",
+        "account_type": "SIP",
+        "fullname": "Шмакова Е.С.",
+        "status": "Idle",
+        "addr": "10.59.12.146:5060"
+      },
+      {
+        "extension": "602",
+        "account_type": "SIP",
+        "fullname": "Хасанов Ф.Д.",
+        "status": "Idle",
+        "addr": "10.59.21.2:5060"
+      },
+      {
+        "extension": "603",
+        "account_type": "SIP",
+        "fullname": "Жуков И.Е.",
+        "status": "Idle",
+        "addr": "10.59.21.3:5060"
+      },
+      {
+        "extension": "604",
+        "account_type": "SIP",
+        "fullname": "Каримов А.С.",
+        "status": "Idle",
+        "addr": "10.59.12.147:5060"
+      },
+      {
+        "extension": "605",
+        "account_type": "SIP",
+        "fullname": "Оператор ГВУ",
+        "status": "Idle",
+        "addr": "10.59.12.148:5060"
+      },
+      {
+        "extension": "606",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Ахметзянов А.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.222:14418"
+      },
+      {
+        "extension": "607",
+        "account_type": "SIP",
+        "fullname": "ГВУ Компрессорная",
+        "status": "Idle",
+        "addr": "10.59.12.150:5060"
+      },
+      {
+        "extension": "608",
+        "account_type": "SIP",
+        "fullname": "РТП ЮВС 6 кВ",
+        "status": "Idle",
+        "addr": "10.59.12.151:5060"
+      },
+      {
+        "extension": "609",
+        "account_type": "SIP",
+        "fullname": "КПП Нижний городок",
+        "status": "Idle",
+        "addr": "10.59.12.154:5060"
+      },
+      {
+        "extension": "610",
+        "account_type": "SIP",
+        "fullname": "Харченко И.В.",
+        "status": "Idle",
+        "addr": "10.59.22.11:5060"
+      },
+      {
+        "extension": "611",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Тест webrtc",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "612",
+        "account_type": "SIP",
+        "fullname": "Отдел геологии",
+        "status": "Idle",
+        "addr": "10.59.12.153:5060,10.59.4.134:5060"
+      },
+      {
+        "extension": "613",
+        "account_type": "SIP",
+        "fullname": "Бакиров В.Л.",
+        "status": "Idle",
+        "addr": "10.59.22.14:5060"
+      },
+      {
+        "extension": "614",
+        "account_type": "SIP",
+        "fullname": "FREE-Даутов А.А.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "615",
+        "account_type": "SIP",
+        "fullname": "Опер ПЗК",
+        "status": "Idle",
+        "addr": "10.59.12.156:5060"
+      },
+      {
+        "extension": "616",
+        "account_type": "SIP",
+        "fullname": "РММ",
+        "status": "Idle",
+        "addr": "10.59.12.158:5060"
+      },
+      {
+        "extension": "617",
+        "account_type": "SIP",
+        "fullname": "Склад РММ",
+        "status": "Idle",
+        "addr": "10.59.12.157:5060"
+      },
+      {
+        "extension": "618",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Мед Пункт Верхний городок",
+        "status": "Idle",
+        "addr": "10.59.12.159:5060,10.59.12.164:5060"
+      },
+      {
+        "extension": "619",
+        "account_type": "SIP",
+        "fullname": "Гражданкин И.В.",
+        "status": "Idle",
+        "addr": "10.59.22.20:5060"
+      },
+      {
+        "extension": "620",
+        "account_type": "SIP",
+        "fullname": "Юмагулова Л.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.51:5060"
+      },
+      {
+        "extension": "621",
+        "account_type": "SIP",
+        "fullname": "Ламповая СВС",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "622",
+        "account_type": "SIP",
+        "fullname": "Оператор ЗЗС",
+        "status": "Idle",
+        "addr": "10.59.12.161:5060"
+      },
+      {
+        "extension": "623",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Ярмухаметов И.И.",
+        "status": "Idle",
+        "addr": "10.59.12.133:5060"
+      },
+      {
+        "extension": "624",
+        "account_type": "SIP",
+        "fullname": "Ишмухаметова Е.А.",
+        "status": "Idle",
+        "addr": "10.59.3.186:5060"
+      },
+      {
+        "extension": "625",
+        "account_type": "SIP",
+        "fullname": "Куватова Г.И.",
+        "status": "Idle",
+        "addr": "10.59.12.169:5060"
+      },
+      {
+        "extension": "626",
+        "account_type": "SIP",
+        "fullname": "Ахметова В.С.",
+        "status": "Idle",
+        "addr": "10.59.12.211:5060"
+      },
+      {
+        "extension": "627",
+        "account_type": "SIP",
+        "fullname": "Охрана склад ВВ",
+        "status": "Idle",
+        "addr": "10.59.12.171:5060"
+      },
+      {
+        "extension": "628",
+        "account_type": "SIP",
+        "fullname": "Мандрыгин В.А.",
+        "status": "Idle",
+        "addr": "10.59.12.172:5060"
+      },
+      {
+        "extension": "629",
+        "account_type": "SIP",
+        "fullname": "Гайсина Р.И.",
+        "status": "Idle",
+        "addr": "10.59.12.173:5060"
+      },
+      {
+        "extension": "630",
+        "account_type": "SIP",
+        "fullname": "Дежурная Пож. депо",
+        "status": "Idle",
+        "addr": "10.59.12.178:5060"
+      },
+      {
+        "extension": "631",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Юров А.А.",
+        "status": "Idle",
+        "addr": "10.59.12.200:5060"
+      },
+      {
+        "extension": "632",
+        "account_type": "SIP",
+        "fullname": "Дмитриев Н.Н.",
+        "status": "Idle",
+        "addr": "10.59.12.166:5060"
+      },
+      {
+        "extension": "633",
+        "account_type": "SIP",
+        "fullname": "Амиров И.Я.",
+        "status": "Idle",
+        "addr": "10.59.12.180:5060"
+      },
+      {
+        "extension": "634",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Смирнова И.",
+        "status": "Idle",
+        "addr": "10.59.12.184:5060"
+      },
+      {
+        "extension": "635",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "ПЦН",
+        "status": "Idle",
+        "addr": "10.59.12.202:5060"
+      },
+      {
+        "extension": "656",
+        "account_type": "SIP",
+        "fullname": "Руководитель ВГК",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "657",
+        "account_type": "SIP",
+        "fullname": "Байгускаров Р.З.",
+        "status": "Idle",
+        "addr": "10.59.12.181:5060"
+      },
+      {
+        "extension": "658",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Склад ХОФ",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "659",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Малахов Е.Г.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "660",
+        "account_type": "SIP",
+        "fullname": "Данилова А.А.",
+        "status": "Idle",
+        "addr": "10.59.12.203:5060"
+      },
+      {
+        "extension": "661",
+        "account_type": "SIP",
+        "fullname": "Бирюков А.С.",
+        "status": "Idle",
+        "addr": "10.59.12.65:5060"
+      },
+      {
+        "extension": "662",
+        "account_type": "SIP",
+        "fullname": "Диспетчер ЮПР 2 линия",
+        "status": "Idle",
+        "addr": "10.59.12.206:5060"
+      },
+      {
+        "extension": "666",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "РЕЗЕРВ Ямалетдинов Р.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "667",
+        "account_type": "SIP",
+        "fullname": "Юланова З.Д.",
+        "status": "Idle",
+        "addr": "10.59.5.21:5060"
+      },
+      {
+        "extension": "668",
+        "account_type": "SIP",
+        "fullname": "Ильясов С.И.",
+        "status": "Idle",
+        "addr": "10.59.12.13:5060"
+      },
+      {
+        "extension": "669",
+        "account_type": "SIP",
+        "fullname": "Явкин Р.В.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "670",
+        "account_type": "SIP",
+        "fullname": "Гладнев В.В.",
+        "status": "Idle",
+        "addr": "10.59.12.187:5060"
+      },
+      {
+        "extension": "671",
+        "account_type": "SIP",
+        "fullname": "Ivanov",
+        "status": "Idle",
+        "addr": "10.59.4.227:23810"
+      },
+      {
+        "extension": "672",
+        "account_type": "SIP",
+        "fullname": "Гришаева Е.А.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "673",
+        "account_type": "SIP",
+        "fullname": "Хабиров А.Х.",
+        "status": "Idle",
+        "addr": "10.59.22.24:5060"
+      },
+      {
+        "extension": "674",
+        "account_type": "SIP",
+        "fullname": "Зверева К.Р.",
+        "status": "Idle",
+        "addr": "10.59.22.23:5060"
+      },
+      {
+        "extension": "675",
+        "account_type": "SIP",
+        "fullname": "Сухарева Р.И.",
+        "status": "Idle",
+        "addr": "10.59.22.17:5060"
+      },
+      {
+        "extension": "680",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Шитов С.И.",
+        "status": "Idle",
+        "addr": "10.59.12.212:31875"
+      },
+      {
+        "extension": "681",
+        "account_type": "SIP",
+        "fullname": "Карабаева С.А.",
+        "status": "Idle",
+        "addr": "10.59.12.179:5060"
+      },
+      {
+        "extension": "682",
+        "account_type": "SIP",
+        "fullname": "Баталов В.М.",
+        "status": "Idle",
+        "addr": "10.59.12.225:5060"
+      },
+      {
+        "extension": "683",
+        "account_type": "SIP",
+        "fullname": "Никитина Е.В.",
+        "status": "Idle",
+        "addr": "10.59.12.226:5060"
+      },
+      {
+        "extension": "684",
+        "account_type": "SIP",
+        "fullname": "Кладовщик ВВ",
+        "status": "Idle",
+        "addr": "10.59.12.227:5060"
+      },
+      {
+        "extension": "777",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "БМ ТЕЛЕКОМ",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5106",
+        "account_type": "SIP",
+        "fullname": "Охрана офис г. Сибай",
+        "status": "Idle",
+        "addr": "10.59.22.41:5060"
+      },
+      {
+        "extension": "5114",
+        "account_type": "SIP",
+        "fullname": "Абубакирова А.Н.",
+        "status": "Idle",
+        "addr": "10.59.22.35:5060"
+      },
+      {
+        "extension": "5130",
+        "account_type": "SIP",
+        "fullname": "Туктагулов Р.Г.",
+        "status": "Idle",
+        "addr": "10.59.12.149:5060"
+      },
+      {
+        "extension": "5161",
+        "account_type": "SIP",
+        "fullname": "Карпова В.П.",
+        "status": "Idle",
+        "addr": "10.59.22.44:5060"
+      },
+      {
+        "extension": "5168",
+        "account_type": "SIP",
+        "fullname": "Габидуллина Г.Р.",
+        "status": "Idle",
+        "addr": "10.59.22.43:5060"
+      },
+      {
+        "extension": "5169",
+        "account_type": "SIP",
+        "fullname": "Вагапова Ю.Ф.",
+        "status": "Idle",
+        "addr": "10.59.22.42:5060"
+      },
+      {
+        "extension": "5180",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Куликов В.С.",
+        "status": "Idle",
+        "addr": "10.59.0.74:17809"
+      },
+      {
+        "extension": "5500",
+        "account_type": "SIP",
+        "fullname": "Бондаренко Д.А.",
+        "status": "Idle",
+        "addr": "10.59.12.189:5060"
+      },
+      {
+        "extension": "5501",
+        "account_type": "SIP",
+        "fullname": "Филин А.А.",
+        "status": "Idle",
+        "addr": "10.59.12.60:5060"
+      },
+      {
+        "extension": "5502",
+        "account_type": "SIP",
+        "fullname": "Инспектор ПК",
+        "status": "Idle",
+        "addr": "10.59.12.64:5060"
+      },
+      {
+        "extension": "5503",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Фоменко Д.В.",
+        "status": "Idle",
+        "addr": "10.59.20.3:46119"
+      },
+      {
+        "extension": "5507",
+        "account_type": "SIP",
+        "fullname": "КПП карьер Юбилейный",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5508",
+        "account_type": "SIP",
+        "fullname": "Участок ПХМ",
+        "status": "Idle",
+        "addr": "10.59.12.83:5060"
+      },
+      {
+        "extension": "5509",
+        "account_type": "SIP",
+        "fullname": "КПП ПРП",
+        "status": "Idle",
+        "addr": "10.59.0.138:5060"
+      },
+      {
+        "extension": "5510",
+        "account_type": "SIP",
+        "fullname": "КПП Восточная",
+        "status": "Idle",
+        "addr": "10.59.12.115:5060"
+      },
+      {
+        "extension": "5511",
+        "account_type": "SIP",
+        "fullname": "Аширова Т.В.",
+        "status": "Idle",
+        "addr": "10.59.12.101:5060"
+      },
+      {
+        "extension": "5512",
+        "account_type": "SIP",
+        "fullname": "ЗР 7 Участок",
+        "status": "Idle",
+        "addr": "10.59.12.122:5060"
+      },
+      {
+        "extension": "5513",
+        "account_type": "SIP",
+        "fullname": "Просвиркин Д.В.",
+        "status": "Idle",
+        "addr": "10.59.20.23:5060"
+      },
+      {
+        "extension": "5514",
+        "account_type": "SIP",
+        "fullname": "Черкасова Г.Ю.",
+        "status": "Idle",
+        "addr": "10.59.12.114:5060"
+      },
+      {
+        "extension": "5515",
+        "account_type": "SIP",
+        "fullname": "АТС ИК",
+        "status": "Idle",
+        "addr": "10.59.12.67:5060"
+      },
+      {
+        "extension": "5516",
+        "account_type": "SIP",
+        "fullname": "ПУЭиРСО №3",
+        "status": "Idle",
+        "addr": "10.59.12.130:5060"
+      },
+      {
+        "extension": "5517",
+        "account_type": "SIP",
+        "fullname": "ДК РГВ №1",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5518",
+        "account_type": "SIP",
+        "fullname": "Начальник ПВС",
+        "status": "Idle",
+        "addr": "10.59.12.134:5060"
+      },
+      {
+        "extension": "5519",
+        "account_type": "SIP",
+        "fullname": "Байчурина Р.Г.",
+        "status": "Idle",
+        "addr": "10.59.12.55:5060"
+      },
+      {
+        "extension": "5521",
+        "account_type": "SIP",
+        "fullname": "Повх А.В.",
+        "status": "Idle",
+        "addr": "10.59.12.43:5060"
+      },
+      {
+        "extension": "5522",
+        "account_type": "SIP",
+        "fullname": "Мельник Р.В.",
+        "status": "Idle",
+        "addr": "10.59.12.44:5060"
+      },
+      {
+        "extension": "5523",
+        "account_type": "SIP",
+        "fullname": "УГМК-Телеком",
+        "status": "Idle",
+        "addr": "10.59.12.21:5060"
+      },
+      {
+        "extension": "5525",
+        "account_type": "SIP",
+        "fullname": "Силин А.В.",
+        "status": "Idle",
+        "addr": "10.59.22.13:5060"
+      },
+      {
+        "extension": "5526",
+        "account_type": "SIP",
+        "fullname": "Начальник ЭТЛ",
+        "status": "Idle",
+        "addr": "10.59.12.62:5060"
+      },
+      {
+        "extension": "5527",
+        "account_type": "SIP",
+        "fullname": "Ильясов А.С.",
+        "status": "Idle",
+        "addr": "10.59.12.52:5060"
+      },
+      {
+        "extension": "5528",
+        "account_type": "SIP",
+        "fullname": "Попков А.С.",
+        "status": "Idle",
+        "addr": "10.59.22.22:5060"
+      },
+      {
+        "extension": "5529",
+        "account_type": "SIP",
+        "fullname": "Саухин В.Н.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5530",
+        "account_type": "SIP",
+        "fullname": "Лебедочная",
+        "status": "Idle",
+        "addr": "10.59.4.191:5060"
+      },
+      {
+        "extension": "5531",
+        "account_type": "SIP",
+        "fullname": "Вент. канал",
+        "status": "Idle",
+        "addr": "10.59.4.191:5062"
+      },
+      {
+        "extension": "5532",
+        "account_type": "SIP",
+        "fullname": "290 гор Закладка",
+        "status": "Idle",
+        "addr": "10.59.4.191:5068"
+      },
+      {
+        "extension": "5533",
+        "account_type": "SIP",
+        "fullname": "355 Гор. насосная",
+        "status": "Idle",
+        "addr": "10.59.4.191:5064"
+      },
+      {
+        "extension": "5535",
+        "account_type": "SIP",
+        "fullname": "РТП",
+        "status": "Idle",
+        "addr": "10.59.4.191:5066"
+      },
+      {
+        "extension": "5538",
+        "account_type": "SIP",
+        "fullname": "Торопов К.В.",
+        "status": "Idle",
+        "addr": "10.59.20.2:29722"
+      },
+      {
+        "extension": "5539",
+        "account_type": "SIP",
+        "fullname": "Султанов Р.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.16:5060"
+      },
+      {
+        "extension": "5540",
+        "account_type": "SIP",
+        "fullname": "Безруков П.А.",
+        "status": "Idle",
+        "addr": "10.59.12.79:5060"
+      },
+      {
+        "extension": "5541",
+        "account_type": "SIP",
+        "fullname": "Тарасов С.В.",
+        "status": "Idle",
+        "addr": "10.59.12.135:5060"
+      },
+      {
+        "extension": "5542",
+        "account_type": "SIP",
+        "fullname": "Привалов А.С.",
+        "status": "Idle",
+        "addr": "10.59.20.4:5060"
+      },
+      {
+        "extension": "5543",
+        "account_type": "SIP",
+        "fullname": "Шевкоплясов С.В.",
+        "status": "Idle",
+        "addr": "10.59.12.140:5060"
+      },
+      {
+        "extension": "5546",
+        "account_type": "SIP",
+        "fullname": "Склад СИЗ",
+        "status": "Idle",
+        "addr": "10.59.12.76:5060"
+      },
+      {
+        "extension": "5547",
+        "account_type": "SIP",
+        "fullname": "Махмутова Р.М.",
+        "status": "Idle",
+        "addr": "10.59.12.128:5060"
+      },
+      {
+        "extension": "5548",
+        "account_type": "SIP",
+        "fullname": "КПП Верхний городок",
+        "status": "Idle",
+        "addr": "10.59.12.80:5060"
+      },
+      {
+        "extension": "5550",
+        "account_type": "SIP",
+        "fullname": "Баянов Р.Р.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5551",
+        "account_type": "SIP",
+        "fullname": "Весовая 100 тонн",
+        "status": "Idle",
+        "addr": "10.59.12.127:5060"
+      },
+      {
+        "extension": "5552",
+        "account_type": "SIP",
+        "fullname": "Назарова В.В.",
+        "status": "Idle",
+        "addr": "10.59.12.137:5060"
+      },
+      {
+        "extension": "5553",
+        "account_type": "SIP",
+        "fullname": "Горлач А.В.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5554",
+        "account_type": "SIP",
+        "fullname": "Ласынова А.Ш.",
+        "status": "Idle",
+        "addr": "10.59.12.142:5060"
+      },
+      {
+        "extension": "5555",
+        "account_type": "SIP(WebRTC)",
+        "fullname": "Лобанов М.Б.",
+        "status": "Idle",
+        "addr": "10.59.12.89:14984"
+      },
+      {
+        "extension": "5556",
+        "account_type": "SIP",
+        "fullname": "ЦХЛ 18к.",
+        "status": "Idle",
+        "addr": "10.59.12.110:5060"
+      },
+      {
+        "extension": "5557",
+        "account_type": "SIP",
+        "fullname": "ЦХЛ 19к.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5558",
+        "account_type": "SIP",
+        "fullname": "ЦХЛ 21к.",
+        "status": "Idle",
+        "addr": "10.59.12.112:5060"
+      },
+      {
+        "extension": "5559",
+        "account_type": "SIP",
+        "fullname": "КПП Рудничная",
+        "status": "Idle",
+        "addr": "10.59.12.106:5060"
+      },
+      {
+        "extension": "5560",
+        "account_type": "SIP",
+        "fullname": "УГМК-Телеком 8-800",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5561",
+        "account_type": "SIP",
+        "fullname": "Булатов Х.Г. нач. ЧОО Батыр",
+        "status": "Idle",
+        "addr": "10.59.12.27:5060"
+      },
+      {
+        "extension": "5563",
+        "account_type": "SIP",
+        "fullname": "Павлова М.С.",
+        "status": "Idle",
+        "addr": "10.59.20.16:5060"
+      },
+      {
+        "extension": "5564",
+        "account_type": "SIP",
+        "fullname": "Чмутова А.Е.",
+        "status": "Idle",
+        "addr": "10.59.20.12:5060"
+      },
+      {
+        "extension": "5565",
+        "account_type": "SIP",
+        "fullname": "Бедыс Ю.П.",
+        "status": "Idle",
+        "addr": "10.59.12.20:5060"
+      },
+      {
+        "extension": "5566",
+        "account_type": "SIP",
+        "fullname": "Алексеенко П.Ю.",
+        "status": "Idle",
+        "addr": "10.59.20.6:5060"
+      },
+      {
+        "extension": "5567",
+        "account_type": "SIP",
+        "fullname": "Ишмухаметов В.С.",
+        "status": "Idle",
+        "addr": "10.59.20.5:5060"
+      },
+      {
+        "extension": "5568",
+        "account_type": "SIP",
+        "fullname": "Головкин П.Д.",
+        "status": "Idle",
+        "addr": "10.59.20.17:5060"
+      },
+      {
+        "extension": "5569",
+        "account_type": "SIP",
+        "fullname": "Вьюженко А.А.",
+        "status": "Idle",
+        "addr": "10.59.20.18:5060"
+      },
+      {
+        "extension": "5570",
+        "account_type": "SIP",
+        "fullname": "Лебедева В.А.",
+        "status": "Idle",
+        "addr": "10.59.20.7:5060"
+      },
+      {
+        "extension": "5580",
+        "account_type": "SIP",
+        "fullname": "Овчинников С.А.",
+        "status": "Idle",
+        "addr": "10.59.20.11:5060"
+      },
+      {
+        "extension": "5581",
+        "account_type": "SIP",
+        "fullname": "Вакуленко А.С.",
+        "status": "Idle",
+        "addr": "10.59.20.9:5060"
+      },
+      {
+        "extension": "5582",
+        "account_type": "SIP",
+        "fullname": "Вдовина Е.А.",
+        "status": "Idle",
+        "addr": "10.59.20.13:5060"
+      },
+      {
+        "extension": "5583",
+        "account_type": "SIP",
+        "fullname": "ПУ ГПР 2 Участок",
+        "status": "Idle",
+        "addr": "10.59.12.123:5060"
+      },
+      {
+        "extension": "5584",
+        "account_type": "SIP",
+        "fullname": "Тычаева Л.А.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5585",
+        "account_type": "SIP",
+        "fullname": "Ермолаев М.Я.",
+        "status": "Idle",
+        "addr": "10.59.20.15:5060"
+      },
+      {
+        "extension": "5586",
+        "account_type": "SIP",
+        "fullname": "Гурьянова И.П.",
+        "status": "Idle",
+        "addr": "10.59.20.22:5060"
+      },
+      {
+        "extension": "5588",
+        "account_type": "SIP",
+        "fullname": "Чебыкин А.А.",
+        "status": "Idle",
+        "addr": "10.59.12.28:5060"
+      },
+      {
+        "extension": "5589",
+        "account_type": "SIP",
+        "fullname": "Галлямов И.Р.",
+        "status": "Idle",
+        "addr": "10.59.12.29:5060"
+      },
+      {
+        "extension": "5590",
+        "account_type": "SIP",
+        "fullname": "Триволенко Н.К.",
+        "status": "Idle",
+        "addr": "10.59.12.34:5060"
+      },
+      {
+        "extension": "5591",
+        "account_type": "SIP",
+        "fullname": "Абдрахимов Т.Х.",
+        "status": "Idle",
+        "addr": "10.59.12.53:5060"
+      },
+      {
+        "extension": "5592",
+        "account_type": "SIP",
+        "fullname": "ПС Рудничная",
+        "status": "Ringing",
+        "addr": "10.59.12.14:5060"
+      },
+      {
+        "extension": "5593",
+        "account_type": "SIP",
+        "fullname": "ПС Юбилейная",
+        "status": "InUse",
+        "addr": "10.59.12.15:5060"
+      },
+      {
+        "extension": "5595",
+        "account_type": "SIP",
+        "fullname": "ПС Рудничная ГГС",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5596",
+        "account_type": "SIP",
+        "fullname": "Ламповая",
+        "status": "Idle",
+        "addr": "10.59.12.207:5060"
+      },
+      {
+        "extension": "5597",
+        "account_type": "SIP",
+        "fullname": "ЦХЛ 27к.",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5598",
+        "account_type": "SIP",
+        "fullname": "УЗР 7 Участок",
+        "status": "Idle",
+        "addr": "10.59.12.125:5060"
+      },
+      {
+        "extension": "5599",
+        "account_type": "SIP",
+        "fullname": "Мед Пункт Нижний городок",
+        "status": "Idle",
+        "addr": "10.59.12.96:5060"
+      },
+      {
+        "extension": "5685",
+        "account_type": "SIP",
+        "fullname": "Уч№6 Вагончик",
+        "status": "Idle",
+        "addr": "10.59.12.126:5060"
+      },
+      {
+        "extension": "5686",
+        "account_type": "SIP",
+        "fullname": "Участок №5",
+        "status": "Idle",
+        "addr": "10.59.12.234:5060"
+      },
+      {
+        "extension": "5687",
+        "account_type": "SIP",
+        "fullname": "Участок №4",
+        "status": "Idle",
+        "addr": "10.59.12.235:5060"
+      },
+      {
+        "extension": "5688",
+        "account_type": "SIP",
+        "fullname": "МАРК ПГР",
+        "status": "Idle",
+        "addr": "10.59.12.236:5060"
+      },
+      {
+        "extension": "5689",
+        "account_type": "SIP",
+        "fullname": "Тимур Кудабаев",
+        "status": "Idle",
+        "addr": "10.59.12.237:5060"
+      },
+      {
+        "extension": "5690",
+        "account_type": "SIP",
+        "fullname": "Архипова Н.Ю.",
+        "status": "Idle",
+        "addr": "10.59.22.40:5060"
+      },
+      {
+        "extension": "5700",
+        "account_type": "SIP",
+        "fullname": "1110",
+        "status": "Unavailable",
+        "addr": "-"
+      },
+      {
+        "extension": "5701",
+        "account_type": "SIP",
+        "fullname": "Портал",
+        "status": "Idle",
+        "addr": "10.59.4.227:39091"
+      },
+      {
+        "extension": "5702",
+        "account_type": "SIP",
+        "fullname": "610 гор склад ВМ ШСУ",
+        "status": "Idle",
+        "addr": "10.59.4.227:15340"
+      },
+      {
+        "extension": "5703",
+        "account_type": "SIP",
+        "fullname": "290 гор ремпункт уч№6",
+        "status": "InUse",
+        "addr": "10.59.4.227:44351"
+      },
+      {
+        "extension": "5704",
+        "account_type": "SIP",
+        "fullname": "495 гор КССТ ШСУ",
+        "status": "Idle",
+        "addr": "10.59.4.227:43277"
+      },
+      {
+        "extension": "5705",
+        "account_type": "SIP",
+        "fullname": "330 гор заклад.пост",
+        "status": "Idle",
+        "addr": "10.59.4.227:29138"
+      },
+      {
+        "extension": "5706",
+        "account_type": "SIP",
+        "fullname": "330 гор взрывники",
+        "status": "Idle",
+        "addr": "10.59.4.227:18235"
+      },
+      {
+        "extension": "5707",
+        "account_type": "SIP",
+        "fullname": "355 гор ремпункт уч№3",
+        "status": "InUse",
+        "addr": "10.59.4.227:22324"
+      },
+      {
+        "extension": "5708",
+        "account_type": "SIP",
+        "fullname": "570 гор слесарка уч№11 ШСУ",
+        "status": "Idle",
+        "addr": "10.59.4.227:33216"
+      },
+      {
+        "extension": "5709",
+        "account_type": "SIP",
+        "fullname": "1119",
+        "status": "Idle",
+        "addr": "10.59.4.227:21506"
+      },
+      {
+        "extension": "5710",
+        "account_type": "SIP",
+        "fullname": "355 гор ЮВС насосная станция",
+        "status": "Idle",
+        "addr": "10.59.4.227:29364"
+      },
+      {
+        "extension": "5711",
+        "account_type": "SIP",
+        "fullname": "650 гор слесарка уч№16 ШСУ",
+        "status": "Idle",
+        "addr": "10.59.4.227:19883"
+      },
+      {
+        "extension": "5712",
+        "account_type": "SIP",
+        "fullname": "385 гор закладочный пост",
+        "status": "Idle",
+        "addr": "10.59.4.227:23286"
+      },
+      {
+        "extension": "5713",
+        "account_type": "SIP",
+        "fullname": "396-360 гор наклон. съезд",
+        "status": "Idle",
+        "addr": "10.59.4.227:46905"
+      },
+      {
+        "extension": "5714",
+        "account_type": "SIP",
+        "fullname": "355 гор КРБО",
+        "status": "Idle",
+        "addr": "10.59.4.227:46672"
+      },
+      {
+        "extension": "5715",
+        "account_type": "SIP",
+        "fullname": "475 гор слесарка уч№1",
+        "status": "InUse",
+        "addr": "10.59.4.227:16290"
+      },
+      {
+        "extension": "5716",
+        "account_type": "SIP",
+        "fullname": "455 гор насосная станция",
+        "status": "Idle",
+        "addr": "10.59.4.227:25791"
+      },
+      {
+        "extension": "5717",
+        "account_type": "SIP",
+        "fullname": "290 гор закладочный пост",
+        "status": "Idle",
+        "addr": "10.59.4.227:33886"
+      },
+      {
+        "extension": "5718",
+        "account_type": "SIP",
+        "fullname": "1128",
+        "status": "Idle",
+        "addr": "10.59.4.227:25589"
+      },
+      {
+        "extension": "5719",
+        "account_type": "SIP",
+        "fullname": "330 гор ВХВ",
+        "status": "Idle",
+        "addr": "10.59.4.227:13303"
+      },
+      {
+        "extension": "5720",
+        "account_type": "SIP",
+        "fullname": "575 гор насосная станция",
+        "status": "Idle",
+        "addr": "10.59.4.227:36284"
+      },
+      {
+        "extension": "5721",
+        "account_type": "SIP",
+        "fullname": "415 гор слесарка уч№7",
+        "status": "Idle",
+        "addr": "10.59.4.227:36741"
+      },
+      {
+        "extension": "5722",
+        "account_type": "SIP",
+        "fullname": "Уч№6 Вагончик",
+        "status": "Idle",
+        "addr": "10.59.4.227:26508"
+      },
+      {
+        "extension": "5723",
+        "account_type": "SIP",
+        "fullname": "290 гор Водозбор тех.воды",
+        "status": "Idle",
+        "addr": "10.59.4.227:22947"
+      },
+      {
+        "extension": "5724",
+        "account_type": "SIP",
+        "fullname": "335 гор Деж.телефон",
+        "status": "Idle",
+        "addr": "10.59.4.227:44622"
+      },
+      {
+        "extension": "5725",
+        "account_type": "SIP",
+        "fullname": "КПВ передвижной",
+        "status": "Idle",
+        "addr": "10.59.4.227:45784"
+      },
+      {
+        "extension": "5726",
+        "account_type": "SIP",
+        "fullname": "495 гор РУПП",
+        "status": "Idle",
+        "addr": "10.59.4.227:15551"
+      },
+      {
+        "extension": "5727",
+        "account_type": "SIP",
+        "fullname": "495 гор ЮВС уч№19 ШСУ",
+        "status": "Idle",
+        "addr": "10.59.4.227:47223"
+      },
+      {
+        "extension": "5728",
+        "account_type": "SIP",
+        "fullname": "610 гор уч№16 ШСУ",
+        "status": "Idle",
+        "addr": "10.59.4.227:37385"
+      },
+      {
+        "extension": "5729",
+        "account_type": "SIP",
+        "fullname": "ВНС уч№11 ШСУ",
+        "status": "Idle",
+        "addr": "10.59.4.227:23903"
+      },
+      {
+        "extension": "5730",
+        "account_type": "SIP",
+        "fullname": "495 гор слесарка уч№19 ШСУ",
+        "status": "InUse",
+        "addr": "10.59.4.227:33786"
+      },
+      {
+        "extension": "5731",
+        "account_type": "SIP",
+        "fullname": "415 гор слесарка уч№2",
+        "status": "Idle",
+        "addr": "10.59.4.227:11196"
+      }
+    ]
